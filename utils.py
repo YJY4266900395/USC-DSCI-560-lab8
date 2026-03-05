@@ -87,7 +87,8 @@ def tokenize(text: str, min_len: int = 3) -> List[str]:
     text = _TAG_RE.sub(" ", text)
     text = _NON_ALPHA_RE.sub(" ", text)
     text = _MULTI_SPACE_RE.sub(" ", text).strip()
-    return [w for w in text.split() if len(w) >= min_len and w not in STOPWORDS]
+    # return [w for w in text.split() if len(w) >= min_len and w not in STOPWORDS]
+    return [w for w in text.split() if len(w) >= min_len]
 
 
 def prepare_data(input_path: str, min_text_len: int = 30, min_tokens: int = 3):
