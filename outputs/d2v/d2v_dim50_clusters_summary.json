@@ -1,0 +1,466 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "ai, just, like",
+    "size": 488,
+    "top_keywords": [
+      "ai",
+      "just",
+      "like",
+      "time",
+      "people",
+      "way",
+      "really",
+      "know",
+      "ve",
+      "think"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1js796v",
+        "subreddit": "computerscience",
+        "title": "Why do computers always have a single dimensional arrays. Why is memory single-dimensional? Are there any alternatives?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1js796v/why_do_computers_always_have_a_single_dimensional/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/i71l2y6ql1te1.png",
+        "score": 292,
+        "num_comments": 89,
+        "created": "2025-04-05T16:25:24+00:00",
+        "final_text_preview": "Why do computers always have a single dimensional arrays. Why is memory single-dimensional? Are there any alternatives?",
+        "cosine_similarity_to_centroid": 0.9107823967933655
+      },
+      {
+        "fullname": "t3_1n3g32d",
+        "subreddit": "computerscience",
+        "title": "How big would an iphone that was built using vacuum tubes be?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1n3g32d/how_big_would_an_iphone_that_was_built_using/",
+        "is_image": false,
+        "image_url": "",
+        "score": 104,
+        "num_comments": 44,
+        "created": "2025-08-29T19:00:04+00:00",
+        "final_text_preview": "i know this is silly question but i figured someone might think it amusing enough to do the back of napkin math",
+        "cosine_similarity_to_centroid": 0.9089801907539368
+      },
+      {
+        "fullname": "t3_1q6hfy2",
+        "subreddit": "artificial",
+        "title": "AI isn’t “just predicting the next word” anymore",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WsVgBC7MhDUFBihIWsU82l1VaE_Z9kLaEdy7QmG52sw.jpeg?auto=webp&s=a4077f3e88497e2bb0a512c6afdc69c9aa990147",
+        "score": 357,
+        "num_comments": 204,
+        "created": "2026-01-07T14:54:40+00:00",
+        "final_text_preview": "AI isn’t “just predicting the next word” anymore",
+        "cosine_similarity_to_centroid": 0.9038949608802795
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "data, job, like",
+    "size": 556,
+    "top_keywords": [
+      "data",
+      "job",
+      "like",
+      "work",
+      "just",
+      "security",
+      "experience",
+      "ai",
+      "years",
+      "ve"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1oje977",
+        "subreddit": "datascience",
+        "title": "So what do y’all think of the Amazon layoffs?",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1oje977/so_what_do_yall_think_of_the_amazon_layoffs/",
+        "is_image": false,
+        "image_url": "",
+        "score": 181,
+        "num_comments": 94,
+        "created": "2025-10-29T19:35:11+00:00",
+        "final_text_preview": "I’ve heard that many BIEs and data professionals have been laid off recently. It’s quite unsettling to see, and I’m feeling anxious both as an employee, since it could happen at my company too and as a job seeker, knowin",
+        "cosine_similarity_to_centroid": 0.9205963015556335
+      },
+      {
+        "fullname": "t3_1kapuvz",
+        "subreddit": "datascience",
+        "title": "Transition to SDE",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1kapuvz/transition_to_sde/",
+        "is_image": false,
+        "image_url": "",
+        "score": 29,
+        "num_comments": 11,
+        "created": "2025-04-29T14:52:35+00:00",
+        "final_text_preview": "Is there anyone here who has transitioned to SDE from DS? I have been working as a data scientist for over 2 years now, so my CV comprises of DS related experience only. I want to explore opportunities in SDE (as well as",
+        "cosine_similarity_to_centroid": 0.9203650951385498
+      },
+      {
+        "fullname": "t3_1ljsd1j",
+        "subreddit": "datascience",
+        "title": "Graduating Soon — Any Tips for Landing an Entry-Level Data Science Job?",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1ljsd1j/graduating_soon_any_tips_for_landing_an/",
+        "is_image": false,
+        "image_url": "",
+        "score": 189,
+        "num_comments": 113,
+        "created": "2025-06-25T00:59:41+00:00",
+        "final_text_preview": "Hey everyone — I'm finishing up my MSc in Data Science this fall (Fall 2025). I also have a BSc in Computer Science and completed 2–3 relevant tech internships. I’m starting to plan my job hunt and would love to hear fro",
+        "cosine_similarity_to_centroid": 0.916529655456543
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "security, ai, https",
+    "size": 463,
+    "top_keywords": [
+      "security",
+      "ai",
+      "https",
+      "com",
+      "github",
+      "microsoft",
+      "agents",
+      "code",
+      "agent",
+      "data"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1po7rob",
+        "subreddit": "cybersecurity",
+        "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1po7rob/hackers_exploit_newly_patched_fortinet_auth/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/C_Ob6wp3vTXy_0nnFAZHpgpoGAn1WLDISGnrbWibHDE.jpeg?auto=webp&s=756a1226a783028c7aee6caeb7c6000215ecfa90",
+        "score": 302,
+        "num_comments": 26,
+        "created": "2025-12-16T17:21:46+00:00",
+        "final_text_preview": "Hackers exploit newly patched Fortinet auth bypass flaws",
+        "cosine_similarity_to_centroid": 0.9371702671051025
+      },
+      {
+        "fullname": "t3_1rf9fts",
+        "subreddit": "cybersecurity",
+        "title": "Notepad++",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rf9fts/notepad/",
+        "is_image": false,
+        "image_url": "",
+        "score": 47,
+        "num_comments": 15,
+        "created": "2026-02-26T12:56:44+00:00",
+        "final_text_preview": "In the recent notepad++ incident, what I understand is, a threat actor gained access to the shared hosting server, identified notepad++ and redirected the download url to malicious files, in hopes to exploit the verifica",
+        "cosine_similarity_to_centroid": 0.9339994788169861
+      },
+      {
+        "fullname": "t3_1p0eu8e",
+        "subreddit": "cybersecurity",
+        "title": "WhatsApp security flaw exposed 3.5B phone numbers – inc yours",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1p0eu8e/whatsapp_security_flaw_exposed_35b_phone_numbers/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/sA4ibBo6tHaipOoQDhdGRC9_QzK1Id8l_narlOyuEZA.jpeg?auto=webp&s=317017d371d904063d6a4fb87a23ca7921641d46",
+        "score": 612,
+        "num_comments": 39,
+        "created": "2025-11-18T15:27:05+00:00",
+        "final_text_preview": "WhatsApp security flaw exposed 3.5B phone numbers – inc yours",
+        "cosine_similarity_to_centroid": 0.9306713342666626
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "ai, new, data",
+    "size": 979,
+    "top_keywords": [
+      "ai",
+      "new",
+      "data",
+      "says",
+      "reddit",
+      "questions",
+      "search",
+      "science",
+      "tech",
+      "https"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1qy22f0",
+        "subreddit": "technology",
+        "title": "NBC appears to cut crowd’s booing of JD Vance from Winter Olympics broadcast",
+        "permalink": "https://old.reddit.com/r/technology/comments/1qy22f0/nbc_appears_to_cut_crowds_booing_of_jd_vance_from/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/A6j76Xs6j-HI2UnKmIWsim0_Fj0HyKY4NL4jRiWQXWY.jpeg?auto=webp&s=92d9b5974eaf954817e6200f6a7917a02b9e53fd",
+        "score": 38030,
+        "num_comments": 936,
+        "created": "2026-02-07T02:48:03+00:00",
+        "final_text_preview": "NBC appears to cut crowd’s booing of JD Vance from Winter Olympics broadcast",
+        "cosine_similarity_to_centroid": 0.9858412146568298
+      },
+      {
+        "fullname": "t3_1ppre9i",
+        "subreddit": "tech",
+        "title": "Helical rover wheel balloons from 9 to 20 inches & survives fire",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ppre9i/helical_rover_wheel_balloons_from_9_to_20_inches/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/e3fWNQzZuIrCaY2h19pCrnklvs7wleEzGciMPYRY1V0.jpeg?auto=webp&s=fb585f35f5e31c57dead6e25520283ad969f3f5a",
+        "score": 385,
+        "num_comments": 11,
+        "created": "2025-12-18T13:55:20+00:00",
+        "final_text_preview": "Helical rover wheel balloons from 9 to 20 inches & survives fire",
+        "cosine_similarity_to_centroid": 0.9815744757652283
+      },
+      {
+        "fullname": "t3_1jlqdzt",
+        "subreddit": "tech",
+        "title": "New plastic dissolves in the ocean overnight, leaving no microplastics",
+        "permalink": "https://old.reddit.com/r/tech/comments/1jlqdzt/new_plastic_dissolves_in_the_ocean_overnight/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/k7uz7xxlvhyHWLq023iAXad1HDNKtlapivcHHrlQuj0.jpg?auto=webp&s=75aa10e4362c284482cb61dee7d89263aa53a472",
+        "score": 3162,
+        "num_comments": 158,
+        "created": "2025-03-28T08:30:49+00:00",
+        "final_text_preview": "New plastic dissolves in the ocean overnight, leaving no microplastics",
+        "cosine_similarity_to_centroid": 0.9813008308410645
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "new, cancer, scientists",
+    "size": 670,
+    "top_keywords": [
+      "new",
+      "cancer",
+      "scientists",
+      "ai",
+      "cells",
+      "brain",
+      "drug",
+      "breakthrough",
+      "human",
+      "researchers"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1p5jzqg",
+        "subreddit": "tech",
+        "title": "Turning fat cells into bone heals fractures and reverses frailty",
+        "permalink": "https://old.reddit.com/r/tech/comments/1p5jzqg/turning_fat_cells_into_bone_heals_fractures_and/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Exq5OyoCVirsu3SUGgEfFB0TlJxpMo0gyok_J7b_pxk.jpeg?auto=webp&s=37c30d3f268a59a9e25be88a8c4b7a71eac078b9",
+        "score": 1447,
+        "num_comments": 53,
+        "created": "2025-11-24T15:29:18+00:00",
+        "final_text_preview": "Turning fat cells into bone heals fractures and reverses frailty",
+        "cosine_similarity_to_centroid": 0.9767683744430542
+      },
+      {
+        "fullname": "t3_1ltu44j",
+        "subreddit": "tech",
+        "title": "Cough syrup protects the brain from dementia in clinical trial first | This cough medicine is an unlikely new ally in slowing Parkinson's disease dementia",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ltu44j/cough_syrup_protects_the_brain_from_dementia_in/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WGILBS2obpSi00DRLlpDdQlMi4IVv-6N0Pu43_lkwZc.jpeg?auto=webp&s=41a5d511886d436d88e852d4c7a12560e76faeda",
+        "score": 1727,
+        "num_comments": 138,
+        "created": "2025-07-07T13:25:48+00:00",
+        "final_text_preview": "Cough syrup protects the brain from dementia in clinical trial first | This cough medicine is an unlikely new ally in slowing Parkinson's disease dementia",
+        "cosine_similarity_to_centroid": 0.9733836650848389
+      },
+      {
+        "fullname": "t3_1mqudzz",
+        "subreddit": "tech",
+        "title": "The rare, highly valued Taiwanese forest fungus fights inflammation and stifles cancer cells | N50 F2 was good at stopping cell proliferation in lung cancer cells and shield tissues from damage as a result of chronic disease inflammation.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1mqudzz/the_rare_highly_valued_taiwanese_forest_fungus/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/dJQ0tUaK0N8kubHM5KIoGX7RW4TCb4Hj9TdIINNEOCM.png?auto=webp&s=19ba18de3b7ceb9e51ddeb67c729bf73505cde62",
+        "score": 1005,
+        "num_comments": 32,
+        "created": "2025-08-15T10:55:09+00:00",
+        "final_text_preview": "The rare, highly valued Taiwanese forest fungus fights inflammation and stifles cancer cells | N50 F2 was good at stopping cell proliferation in lung cancer cells and shield tissues from damage as a result of chronic dis",
+        "cosine_similarity_to_centroid": 0.9727516174316406
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "computer, learning, science",
+    "size": 454,
+    "top_keywords": [
+      "computer",
+      "learning",
+      "science",
+      "like",
+      "books",
+      "data",
+      "learn",
+      "book",
+      "know",
+      "cs"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1mo4chr",
+        "subreddit": "computerscience",
+        "title": "Resources to learn DBMS",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1mo4chr/resources_to_learn_dbms/",
+        "is_image": false,
+        "image_url": "",
+        "score": 8,
+        "num_comments": 4,
+        "created": "2025-08-12T09:48:03+00:00",
+        "final_text_preview": "Hey everyone, I am 3rd year computer science student. I am taking a DBMS course this semester and am not hoping to understand much from lectures in my clg. I would really appreciate it if someone could point me towards a",
+        "cosine_similarity_to_centroid": 0.927454948425293
+      },
+      {
+        "fullname": "t3_1ndpg6d",
+        "subreddit": "computerscience",
+        "title": "Struggling with Algorithms & Databases — What Resources Helped You Understand?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1ndpg6d/struggling_with_algorithms_databases_what/",
+        "is_image": false,
+        "image_url": "",
+        "score": 8,
+        "num_comments": 4,
+        "created": "2025-09-10T20:31:31+00:00",
+        "final_text_preview": "Hey everyone, I’m currently taking Algorithms & Data Structures and Database Systems, and honestly, I feel like I’m not fully grasping the concepts. I understand the basic ideas when I read them, but when it comes to for",
+        "cosine_similarity_to_centroid": 0.9115975499153137
+      },
+      {
+        "fullname": "t3_1mot20s",
+        "subreddit": "computerscience",
+        "title": "In what order should i read these computer science books as a newbie?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1mot20s/in_what_order_should_i_read_these_computer/",
+        "is_image": false,
+        "image_url": "",
+        "score": 28,
+        "num_comments": 21,
+        "created": "2025-08-13T02:55:33+00:00",
+        "final_text_preview": "I just bought acouple of the recommended books on here. Those being, Structure and Interpretation of Computer Programs (2nd Edition) Operating Systems: Three Easy Pieces Designing Data-Intensive Applications Computer Sys",
+        "cosine_similarity_to_centroid": 0.9108840823173523
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "model, ai, data",
+    "size": 428,
+    "top_keywords": [
+      "model",
+      "ai",
+      "data",
+      "models",
+      "https",
+      "com",
+      "like",
+      "using",
+      "llm",
+      "just"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1qw9fvl",
+        "subreddit": "datascience",
+        "title": "Production patterns for RAG chatbots: asyncio.gather(), BackgroundTasks, and more",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1qw9fvl/production_patterns_for_rag_chatbots/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/PWbeeES1hgwUJ0seELAv9u9pGhovbve8smaj9-B7664.jpeg?auto=webp&s=ab83e340c1c130535583bc86141bd239ec153896",
+        "score": 8,
+        "num_comments": 0,
+        "created": "2026-02-05T02:52:50+00:00",
+        "final_text_preview": "Production patterns for RAG chatbots: asyncio.gather(), BackgroundTasks, and more",
+        "cosine_similarity_to_centroid": 0.8856722116470337
+      },
+      {
+        "fullname": "t3_1ly06nw",
+        "subreddit": "datascience",
+        "title": "How do you efficiently traverse hundreds of features in the dataset?",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1ly06nw/how_do_you_efficiently_traverse_hundreds_of/",
+        "is_image": false,
+        "image_url": "",
+        "score": 93,
+        "num_comments": 41,
+        "created": "2025-07-12T13:14:14+00:00",
+        "final_text_preview": "Currently, working on a fintech classification algorithm, with close to a thousand features which is very tiresome. I'm not a domain expert, so creating sensible hypotesis is difficult. How do you tackle EDA and forming ",
+        "cosine_similarity_to_centroid": 0.8784512877464294
+      },
+      {
+        "fullname": "t3_1qhwy3l",
+        "subreddit": "artificial",
+        "title": "The assistant axis: situating and stabilizing the character of LLMs",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qhwy3l/the_assistant_axis_situating_and_stabilizing_the/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/DzypEz8rX1phtkIDga1ra7hG5M9usOA9FEV_U90JSQQ.png?auto=webp&s=96eb2bfe5e911319f6169b80d0e5acaf6c7f78a2",
+        "score": 3,
+        "num_comments": 0,
+        "created": "2026-01-20T09:50:13+00:00",
+        "final_text_preview": "The assistant axis: situating and stabilizing the character of LLMs",
+        "cosine_similarity_to_centroid": 0.8779088258743286
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "ai, trump, says",
+    "size": 910,
+    "top_keywords": [
+      "ai",
+      "trump",
+      "says",
+      "openai",
+      "billion",
+      "anthropic",
+      "meta",
+      "tesla",
+      "ceo",
+      "pentagon"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nzqlsk",
+        "subreddit": "technology",
+        "title": "Teen was burned alive in malfunctioning Tesla Cybertruck, lawsuit claims",
+        "permalink": "https://old.reddit.com/r/technology/comments/1nzqlsk/teen_was_burned_alive_in_malfunctioning_tesla/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/bw0_qsvCrFgi2IQ3OrcKk6hkR1wpne3nf_UzBx0l0c0.jpeg?auto=webp&s=f9a7df00b0c833f32942804fde9e38893acae744",
+        "score": 21604,
+        "num_comments": 1451,
+        "created": "2025-10-06T18:09:10+00:00",
+        "final_text_preview": "Teen was burned alive in malfunctioning Tesla Cybertruck, lawsuit claims",
+        "cosine_similarity_to_centroid": 0.9780606031417847
+      },
+      {
+        "fullname": "t3_1kfermy",
+        "subreddit": "technology",
+        "title": "Goodbye to the old Facebook - Zuckerberg admits he no longer connects family and friends, faces FTC lawsuit that could dismantle Meta",
+        "permalink": "https://old.reddit.com/r/technology/comments/1kfermy/goodbye_to_the_old_facebook_zuckerberg_admits_he/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/hUDnrHgPDJp3tH_hFbr15L2ysBITpgg2UzteaGPNkeA.jpg?auto=webp&s=06efa724631032c01eafa85e544b34289d718f48",
+        "score": 31051,
+        "num_comments": 1194,
+        "created": "2025-05-05T15:41:00+00:00",
+        "final_text_preview": "Goodbye to the old Facebook - Zuckerberg admits he no longer connects family and friends, faces FTC lawsuit that could dismantle Meta",
+        "cosine_similarity_to_centroid": 0.974837064743042
+      },
+      {
+        "fullname": "t3_1mjs96c",
+        "subreddit": "technology",
+        "title": "Apple made a 24k gold and glass statue for Donald Trump. At a White House press conference to discuss Apple’s new US manufacturing plans, CEO Tim Cook presented a gift to President Donald Trump: a “unique” piece of glass from iPhone glass manufacturer Corning that’s set in a 24-karat gold base.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1mjs96c/apple_made_a_24k_gold_and_glass_statue_for_donald/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Agcoh5ivZ93knKAqwTB-jyxHNDZlpzdA0J6-PLYMlSU.jpeg?auto=webp&s=969f10e87b0a5f4b7cddba78e946d84c26f30a72",
+        "score": 27539,
+        "num_comments": 3374,
+        "created": "2025-08-07T06:04:23+00:00",
+        "final_text_preview": "Apple made a 24k gold and glass statue for Donald Trump. At a White House press conference to discuss Apple’s new US manufacturing plans, CEO Tim Cook presented a gift to President Donald Trump: a “unique” piece of glass",
+        "cosine_similarity_to_centroid": 0.9742897152900696
+      }
+    ]
+  }
+]

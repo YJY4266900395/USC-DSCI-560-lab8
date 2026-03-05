@@ -1,0 +1,162 @@
+{
+  "doc2vec": [
+    {
+      "method": "doc2vec",
+      "config_name": "d2v_dim30",
+      "dim": 30,
+      "name": "d2v_dim30",
+      "vector_size": 30,
+      "min_count": 3,
+      "epochs": 30,
+      "window": 5,
+      "dm": 1,
+      "k": 8,
+      "n_docs": 4948,
+      "cluster_sizes": {
+        "5": 910,
+        "1": 877,
+        "3": 685,
+        "4": 560,
+        "0": 442,
+        "2": 622,
+        "6": 407,
+        "7": 445
+      },
+      "silhouette": 0.09809999912977219,
+      "calinski_harabasz": 290.9086,
+      "davies_bouldin": 2.5917
+    },
+    {
+      "method": "doc2vec",
+      "config_name": "d2v_dim50",
+      "dim": 50,
+      "name": "d2v_dim50",
+      "vector_size": 50,
+      "min_count": 3,
+      "epochs": 30,
+      "window": 5,
+      "dm": 1,
+      "k": 8,
+      "n_docs": 4948,
+      "cluster_sizes": {
+        "7": 910,
+        "4": 670,
+        "3": 979,
+        "0": 488,
+        "1": 556,
+        "6": 428,
+        "5": 454,
+        "2": 463
+      },
+      "silhouette": 0.09279999881982803,
+      "calinski_harabasz": 293.0501,
+      "davies_bouldin": 2.5814
+    },
+    {
+      "method": "doc2vec",
+      "config_name": "d2v_dim100",
+      "dim": 100,
+      "name": "d2v_dim100",
+      "vector_size": 100,
+      "min_count": 3,
+      "epochs": 30,
+      "window": 5,
+      "dm": 1,
+      "k": 8,
+      "n_docs": 4948,
+      "cluster_sizes": {
+        "1": 924,
+        "6": 664,
+        "3": 1007,
+        "5": 450,
+        "7": 435,
+        "0": 474,
+        "4": 565,
+        "2": 429
+      },
+      "silhouette": 0.09969999641180038,
+      "calinski_harabasz": 304.268,
+      "davies_bouldin": 2.5227
+    }
+  ],
+  "w2v_bow": [
+    {
+      "method": "w2v_bow",
+      "config_name": "w2v_bow_dim30",
+      "dim": 30,
+      "name": "w2v_bow_dim30",
+      "doc_dim": 30,
+      "w2v_dim": 100,
+      "min_count": 3,
+      "epochs": 30,
+      "window": 5,
+      "k": 8,
+      "n_docs": 4948,
+      "cluster_sizes": {
+        "2": 632,
+        "3": 439,
+        "6": 498,
+        "0": 721,
+        "1": 722,
+        "5": 920,
+        "7": 430,
+        "4": 586
+      },
+      "silhouette": 0.19099999964237213,
+      "calinski_harabasz": 382.4139,
+      "davies_bouldin": 2.3833
+    },
+    {
+      "method": "w2v_bow",
+      "config_name": "w2v_bow_dim50",
+      "dim": 50,
+      "name": "w2v_bow_dim50",
+      "doc_dim": 50,
+      "w2v_dim": 100,
+      "min_count": 3,
+      "epochs": 30,
+      "window": 5,
+      "k": 8,
+      "n_docs": 4948,
+      "cluster_sizes": {
+        "2": 749,
+        "7": 452,
+        "6": 400,
+        "0": 604,
+        "3": 606,
+        "5": 541,
+        "4": 757,
+        "1": 839
+      },
+      "silhouette": 0.15219999849796295,
+      "calinski_harabasz": 283.1474,
+      "davies_bouldin": 2.8428
+    },
+    {
+      "method": "w2v_bow",
+      "config_name": "w2v_bow_dim100",
+      "dim": 100,
+      "name": "w2v_bow_dim100",
+      "doc_dim": 100,
+      "w2v_dim": 100,
+      "min_count": 3,
+      "epochs": 30,
+      "window": 5,
+      "k": 8,
+      "n_docs": 4948,
+      "cluster_sizes": {
+        "5": 399,
+        "2": 585,
+        "3": 604,
+        "0": 769,
+        "7": 629,
+        "1": 788,
+        "6": 476,
+        "4": 698
+      },
+      "silhouette": 0.10329999774694443,
+      "calinski_harabasz": 168.0825,
+      "davies_bouldin": 3.7321
+    }
+  ]
+}

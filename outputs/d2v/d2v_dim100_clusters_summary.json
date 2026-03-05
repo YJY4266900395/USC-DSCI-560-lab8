@@ -1,0 +1,466 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "ai, like, just",
+    "size": 474,
+    "top_keywords": [
+      "ai",
+      "like",
+      "just",
+      "people",
+      "ve",
+      "time",
+      "really",
+      "don",
+      "way",
+      "know"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1q6hfy2",
+        "subreddit": "artificial",
+        "title": "AI isn’t “just predicting the next word” anymore",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WsVgBC7MhDUFBihIWsU82l1VaE_Z9kLaEdy7QmG52sw.jpeg?auto=webp&s=a4077f3e88497e2bb0a512c6afdc69c9aa990147",
+        "score": 357,
+        "num_comments": 204,
+        "created": "2026-01-07T14:54:40+00:00",
+        "final_text_preview": "AI isn’t “just predicting the next word” anymore",
+        "cosine_similarity_to_centroid": 0.9070645570755005
+      },
+      {
+        "fullname": "t3_1nigo94",
+        "subreddit": "computerscience",
+        "title": "I'm bored, give me a couple of interesting topics to look into.",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1nigo94/im_bored_give_me_a_couple_of_interesting_topics/",
+        "is_image": false,
+        "image_url": "",
+        "score": 42,
+        "num_comments": 40,
+        "created": "2025-09-16T12:54:40+00:00",
+        "final_text_preview": "Can be anything about computers you think is interesting.",
+        "cosine_similarity_to_centroid": 0.8987733125686646
+      },
+      {
+        "fullname": "t3_1kq8lge",
+        "subreddit": "computerscience",
+        "title": "When is a deck of cards \"truly shuffled\"?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1kq8lge/when_is_a_deck_of_cards_truly_shuffled/",
+        "is_image": false,
+        "image_url": "",
+        "score": 5,
+        "num_comments": 2,
+        "created": "2025-05-19T10:46:33+00:00",
+        "final_text_preview": "When is a deck of cards \"truly shuffled\"?",
+        "cosine_similarity_to_centroid": 0.8921265006065369
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "ai, trump, says",
+    "size": 924,
+    "top_keywords": [
+      "ai",
+      "trump",
+      "says",
+      "billion",
+      "openai",
+      "anthropic",
+      "ceo",
+      "tesla",
+      "pentagon",
+      "meta"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1kfermy",
+        "subreddit": "technology",
+        "title": "Goodbye to the old Facebook - Zuckerberg admits he no longer connects family and friends, faces FTC lawsuit that could dismantle Meta",
+        "permalink": "https://old.reddit.com/r/technology/comments/1kfermy/goodbye_to_the_old_facebook_zuckerberg_admits_he/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/hUDnrHgPDJp3tH_hFbr15L2ysBITpgg2UzteaGPNkeA.jpg?auto=webp&s=06efa724631032c01eafa85e544b34289d718f48",
+        "score": 31051,
+        "num_comments": 1194,
+        "created": "2025-05-05T15:41:00+00:00",
+        "final_text_preview": "Goodbye to the old Facebook - Zuckerberg admits he no longer connects family and friends, faces FTC lawsuit that could dismantle Meta",
+        "cosine_similarity_to_centroid": 0.9805100560188293
+      },
+      {
+        "fullname": "t3_1nzqlsk",
+        "subreddit": "technology",
+        "title": "Teen was burned alive in malfunctioning Tesla Cybertruck, lawsuit claims",
+        "permalink": "https://old.reddit.com/r/technology/comments/1nzqlsk/teen_was_burned_alive_in_malfunctioning_tesla/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/bw0_qsvCrFgi2IQ3OrcKk6hkR1wpne3nf_UzBx0l0c0.jpeg?auto=webp&s=f9a7df00b0c833f32942804fde9e38893acae744",
+        "score": 21604,
+        "num_comments": 1451,
+        "created": "2025-10-06T18:09:10+00:00",
+        "final_text_preview": "Teen was burned alive in malfunctioning Tesla Cybertruck, lawsuit claims",
+        "cosine_similarity_to_centroid": 0.9797033667564392
+      },
+      {
+        "fullname": "t3_1mjs96c",
+        "subreddit": "technology",
+        "title": "Apple made a 24k gold and glass statue for Donald Trump. At a White House press conference to discuss Apple’s new US manufacturing plans, CEO Tim Cook presented a gift to President Donald Trump: a “unique” piece of glass from iPhone glass manufacturer Corning that’s set in a 24-karat gold base.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1mjs96c/apple_made_a_24k_gold_and_glass_statue_for_donald/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Agcoh5ivZ93knKAqwTB-jyxHNDZlpzdA0J6-PLYMlSU.jpeg?auto=webp&s=969f10e87b0a5f4b7cddba78e946d84c26f30a72",
+        "score": 27539,
+        "num_comments": 3374,
+        "created": "2025-08-07T06:04:23+00:00",
+        "final_text_preview": "Apple made a 24k gold and glass statue for Donald Trump. At a White House press conference to discuss Apple’s new US manufacturing plans, CEO Tim Cook presented a gift to President Donald Trump: a “unique” piece of glass",
+        "cosine_similarity_to_centroid": 0.9727922677993774
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "security, https, ai",
+    "size": 429,
+    "top_keywords": [
+      "security",
+      "https",
+      "ai",
+      "com",
+      "data",
+      "cybersecurity",
+      "microsoft",
+      "github",
+      "network",
+      "access"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nveq29",
+        "subreddit": "cybersecurity",
+        "title": "CISA warns of critical Linux Sudo flaw exploited in attacks",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1nveq29/cisa_warns_of_critical_linux_sudo_flaw_exploited/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/uLLJTf2BtlcJFTo6sHDTgcqBIESqRj23etWRud6WCK8.png?auto=webp&s=d728d325a853916b65ece9a1dc29338cc87f6b5f",
+        "score": 449,
+        "num_comments": 17,
+        "created": "2025-10-01T17:32:33+00:00",
+        "final_text_preview": "CISA warns of critical Linux Sudo flaw exploited in attacks",
+        "cosine_similarity_to_centroid": 0.949401319026947
+      },
+      {
+        "fullname": "t3_1po7rob",
+        "subreddit": "cybersecurity",
+        "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1po7rob/hackers_exploit_newly_patched_fortinet_auth/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/C_Ob6wp3vTXy_0nnFAZHpgpoGAn1WLDISGnrbWibHDE.jpeg?auto=webp&s=756a1226a783028c7aee6caeb7c6000215ecfa90",
+        "score": 302,
+        "num_comments": 26,
+        "created": "2025-12-16T17:21:46+00:00",
+        "final_text_preview": "Hackers exploit newly patched Fortinet auth bypass flaws",
+        "cosine_similarity_to_centroid": 0.9463229179382324
+      },
+      {
+        "fullname": "t3_1ombd22",
+        "subreddit": "cybersecurity",
+        "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1ombd22/cisa_highseverity_linux_flaw_now_exploited_by/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/qfyWiO7Yt_ekl5jVxODQTfi6bEMac1aSBj4H8rhbbOo.jpeg?auto=webp&s=ba711fae54a4d2c97647cf788b6af3743e9605e8",
+        "score": 329,
+        "num_comments": 21,
+        "created": "2025-11-02T07:39:16+00:00",
+        "final_text_preview": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
+        "cosine_similarity_to_centroid": 0.9408230781555176
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "ai, new, says",
+    "size": 1007,
+    "top_keywords": [
+      "ai",
+      "new",
+      "says",
+      "reddit",
+      "data",
+      "questions",
+      "search",
+      "google",
+      "https",
+      "com"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1ppre9i",
+        "subreddit": "tech",
+        "title": "Helical rover wheel balloons from 9 to 20 inches & survives fire",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ppre9i/helical_rover_wheel_balloons_from_9_to_20_inches/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/e3fWNQzZuIrCaY2h19pCrnklvs7wleEzGciMPYRY1V0.jpeg?auto=webp&s=fb585f35f5e31c57dead6e25520283ad969f3f5a",
+        "score": 385,
+        "num_comments": 11,
+        "created": "2025-12-18T13:55:20+00:00",
+        "final_text_preview": "Helical rover wheel balloons from 9 to 20 inches & survives fire",
+        "cosine_similarity_to_centroid": 0.9882700443267822
+      },
+      {
+        "fullname": "t3_1r9v81w",
+        "subreddit": "artificial",
+        "title": "Gemini 3.1 Pro released by google",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1r9v81w/gemini_31_pro_released_by_google/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/-PwzC9nZ012GV4O5aVBGHUXhEvVQUrvsPC1IBkIDFgk.png?auto=webp&s=1f854c147ce74e240f61ba1721b98e6771b87fc6",
+        "score": 52,
+        "num_comments": 9,
+        "created": "2026-02-20T13:22:41+00:00",
+        "final_text_preview": "Gemini 3.1 Pro released by google",
+        "cosine_similarity_to_centroid": 0.9822123050689697
+      },
+      {
+        "fullname": "t3_1qv4odq",
+        "subreddit": "artificial",
+        "title": "Will AI Kill Imaginary Friends? | Essay",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qv4odq/will_ai_kill_imaginary_friends_essay/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/GCvUT9o9roiJiQGB_jxam3wZlq6nMm8_DqMCcQbhW8E.png?auto=webp&s=e1de5d94a80aa64c375ce3b0b6f1a7a984fc41b8",
+        "score": 5,
+        "num_comments": 4,
+        "created": "2026-02-03T21:21:42+00:00",
+        "final_text_preview": "Will AI Kill Imaginary Friends? | Essay",
+        "cosine_similarity_to_centroid": 0.9808060526847839
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "data, job, work",
+    "size": 565,
+    "top_keywords": [
+      "data",
+      "job",
+      "work",
+      "like",
+      "just",
+      "experience",
+      "years",
+      "ve",
+      "ds",
+      "role"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rki6nz",
+        "subreddit": "cybersecurity",
+        "title": "CRTO or OSCP?",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rki6nz/crto_or_oscp/",
+        "is_image": false,
+        "image_url": "",
+        "score": 1,
+        "num_comments": 16,
+        "created": "2026-03-04T10:40:21+00:00",
+        "final_text_preview": "I’m junior pentester just finished the CPTS on HTB Which cert will make me instant hired lol 😂 CRTO or OSCP?",
+        "cosine_similarity_to_centroid": 0.9405893087387085
+      },
+      {
+        "fullname": "t3_1kapuvz",
+        "subreddit": "datascience",
+        "title": "Transition to SDE",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1kapuvz/transition_to_sde/",
+        "is_image": false,
+        "image_url": "",
+        "score": 29,
+        "num_comments": 11,
+        "created": "2025-04-29T14:52:35+00:00",
+        "final_text_preview": "Is there anyone here who has transitioned to SDE from DS? I have been working as a data scientist for over 2 years now, so my CV comprises of DS related experience only. I want to explore opportunities in SDE (as well as",
+        "cosine_similarity_to_centroid": 0.9378605484962463
+      },
+      {
+        "fullname": "t3_1r6jv0m",
+        "subreddit": "datascience",
+        "title": "Been failing interviews, is it possible my current job is as good as it gets?",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1r6jv0m/been_failing_interviews_is_it_possible_my_current/",
+        "is_image": false,
+        "image_url": "",
+        "score": 94,
+        "num_comments": 41,
+        "created": "2026-02-16T19:49:06+00:00",
+        "final_text_preview": "I’ve been interviewing for the past few months across big tech, hedge funds and startups. Out of 8 companies, I’ve only made it to one onsite and almost got the offer. The rest were rejections at the hiring manager or te",
+        "cosine_similarity_to_centroid": 0.9258887767791748
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "computer, learning, like",
+    "size": 450,
+    "top_keywords": [
+      "computer",
+      "learning",
+      "like",
+      "books",
+      "data",
+      "science",
+      "learn",
+      "book",
+      "know",
+      "cs"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1mo4chr",
+        "subreddit": "computerscience",
+        "title": "Resources to learn DBMS",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1mo4chr/resources_to_learn_dbms/",
+        "is_image": false,
+        "image_url": "",
+        "score": 8,
+        "num_comments": 4,
+        "created": "2025-08-12T09:48:03+00:00",
+        "final_text_preview": "Hey everyone, I am 3rd year computer science student. I am taking a DBMS course this semester and am not hoping to understand much from lectures in my clg. I would really appreciate it if someone could point me towards a",
+        "cosine_similarity_to_centroid": 0.9217190742492676
+      },
+      {
+        "fullname": "t3_1mot20s",
+        "subreddit": "computerscience",
+        "title": "In what order should i read these computer science books as a newbie?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1mot20s/in_what_order_should_i_read_these_computer/",
+        "is_image": false,
+        "image_url": "",
+        "score": 28,
+        "num_comments": 21,
+        "created": "2025-08-13T02:55:33+00:00",
+        "final_text_preview": "I just bought acouple of the recommended books on here. Those being, Structure and Interpretation of Computer Programs (2nd Edition) Operating Systems: Three Easy Pieces Designing Data-Intensive Applications Computer Sys",
+        "cosine_similarity_to_centroid": 0.9211978912353516
+      },
+      {
+        "fullname": "t3_1nbw7wx",
+        "subreddit": "computerscience",
+        "title": "Introduction to Computer Science",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1nbw7wx/introduction_to_computer_science/",
+        "is_image": false,
+        "image_url": "",
+        "score": 49,
+        "num_comments": 16,
+        "created": "2025-09-08T18:47:30+00:00",
+        "final_text_preview": "Hi, I'll be direct. I'm a student with knowledge of networks and systems. Intermediate/advanced knowledge (especially networks). I want to start studying computer science as a self-taught student. I wanted to ask why it'",
+        "cosine_similarity_to_centroid": 0.9169822335243225
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "new, scientists, cancer",
+    "size": 664,
+    "top_keywords": [
+      "new",
+      "scientists",
+      "cancer",
+      "cells",
+      "brain",
+      "ai",
+      "breakthrough",
+      "drug",
+      "researchers",
+      "treatment"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1p5jzqg",
+        "subreddit": "tech",
+        "title": "Turning fat cells into bone heals fractures and reverses frailty",
+        "permalink": "https://old.reddit.com/r/tech/comments/1p5jzqg/turning_fat_cells_into_bone_heals_fractures_and/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Exq5OyoCVirsu3SUGgEfFB0TlJxpMo0gyok_J7b_pxk.jpeg?auto=webp&s=37c30d3f268a59a9e25be88a8c4b7a71eac078b9",
+        "score": 1447,
+        "num_comments": 53,
+        "created": "2025-11-24T15:29:18+00:00",
+        "final_text_preview": "Turning fat cells into bone heals fractures and reverses frailty",
+        "cosine_similarity_to_centroid": 0.9830325245857239
+      },
+      {
+        "fullname": "t3_1l9jwmy",
+        "subreddit": "tech",
+        "title": "Pancreatic cancer vaccine eradicates trace of disease in early trials",
+        "permalink": "https://old.reddit.com/r/tech/comments/1l9jwmy/pancreatic_cancer_vaccine_eradicates_trace_of/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/uN6norwkGVFG4YJVxghfGgQQffZjImf09Lb_0v7GfAg.jpg?auto=webp&s=c62bef501fe94d10b1100d0f69564ea864162e43",
+        "score": 5744,
+        "num_comments": 221,
+        "created": "2025-06-12T11:19:52+00:00",
+        "final_text_preview": "Pancreatic cancer vaccine eradicates trace of disease in early trials",
+        "cosine_similarity_to_centroid": 0.981390655040741
+      },
+      {
+        "fullname": "t3_1ltu44j",
+        "subreddit": "tech",
+        "title": "Cough syrup protects the brain from dementia in clinical trial first | This cough medicine is an unlikely new ally in slowing Parkinson's disease dementia",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ltu44j/cough_syrup_protects_the_brain_from_dementia_in/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WGILBS2obpSi00DRLlpDdQlMi4IVv-6N0Pu43_lkwZc.jpeg?auto=webp&s=41a5d511886d436d88e852d4c7a12560e76faeda",
+        "score": 1727,
+        "num_comments": 138,
+        "created": "2025-07-07T13:25:48+00:00",
+        "final_text_preview": "Cough syrup protects the brain from dementia in clinical trial first | This cough medicine is an unlikely new ally in slowing Parkinson's disease dementia",
+        "cosine_similarity_to_centroid": 0.9794033765792847
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "model, ai, data",
+    "size": 435,
+    "top_keywords": [
+      "model",
+      "ai",
+      "data",
+      "models",
+      "https",
+      "com",
+      "llm",
+      "just",
+      "use",
+      "like"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1qs6ibp",
+        "subreddit": "artificial",
+        "title": "I built a way to test Qwen3-TTS and Qwen3-ASR locally on your laptop",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qs6ibp/i_built_a_way_to_test_qwen3tts_and_qwen3asr/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/t65Xwr6N8z5kq7xT2kSAw9s82kT0hqk2EvGZtpnDiRw.png?auto=webp&s=a80708cf3ba1ed6bc70c084474f0ccc1821523a1",
+        "score": 2,
+        "num_comments": 8,
+        "created": "2026-01-31T16:16:34+00:00",
+        "final_text_preview": "I built a way to test Qwen3-TTS and Qwen3-ASR locally on your laptop",
+        "cosine_similarity_to_centroid": 0.9057527780532837
+      },
+      {
+        "fullname": "t3_1ma2tau",
+        "subreddit": "artificial",
+        "title": "New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1ma2tau/new_ai_architecture_delivers_100x_faster/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/eVOwhU3sAnTrs2xqUPBQNAY5Bs-WJtSTMywCJfCc4LM.png?auto=webp&s=d3dfd5864403531c1acea95e81b49f3b5b256f90",
+        "score": 399,
+        "num_comments": 79,
+        "created": "2025-07-26T20:01:34+00:00",
+        "final_text_preview": "New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples",
+        "cosine_similarity_to_centroid": 0.9042748212814331
+      },
+      {
+        "fullname": "t3_1qjfyos",
+        "subreddit": "computerscience",
+        "title": "Classical billiards can compute",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1qjfyos/classical_billiards_can_compute/",
+        "is_image": false,
+        "image_url": "",
+        "score": 1,
+        "num_comments": 0,
+        "created": "2026-01-22T00:50:12+00:00",
+        "final_text_preview": "Classical billiards can compute",
+        "cosine_similarity_to_centroid": 0.8972830176353455
+      }
+    ]
+  }
+]
