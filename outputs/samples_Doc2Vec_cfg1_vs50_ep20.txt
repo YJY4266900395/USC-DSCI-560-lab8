@@ -1,0 +1,52 @@
+Doc2Vec - cfg1_vs50_ep20
+============================================================
+
+Cluster 0
+- Big blimp uses blades to pull wind power out of the sky
+- Engineers Just Developed a Perfect Material for a Truly Unsinkable Ship
+- Sugar molecules used to destroy antibiotic-resistant bacteria
+
+Cluster 1
+- This fusion energy startup thinks it can cut lasers out of the equation
+- Chip stress-tests blood cells to see if donated blood is still good enough
+- Scientists Identify an Epigenetic Switch That Can Slow Production of Fat Cells
+
+Cluster 2
+- Why Apple and OpenAI are reportedly betting on AI hardware in 2026
+- What New York Cyber Security Events are worth going to?
+- What security controls actually work for GenAI apps, and what fails in production?
+
+Cluster 3
+- How secure is open source really?
+- TikTok is tracking you, even if you don't use the app. Here's how to stop it
+- What Is It Like to Be a Machine?
+
+Cluster 4
+- Models that improve on their own are AI's next big thing
+- Forestry-waste pine bark could be used to pull antibiotics out of wastewater
+- First US at-home depression kit on its way after trial shows relief in weeks
+
+Cluster 5
+- What I look for in a resume
+- What is going on at CISA?
+- [Advice/Vent] How to coach an insular and combative science team
+
+Cluster 6
+- Building the world's first open-source quantum computer
+- Moving from Data Engineering to Cybersecurity
+- AI chatbots are infiltrating social-science surveys — and getting better at avoiding detection
+
+Cluster 7
+- Toxin Stops Colon Cancer Growth, Without Harming Healthy Tissue
+- A new chemical trick could extend lithium-ion battery life without redesigning cells
+- Battlefield wound spray stops bleeding in just one second
+
+Cluster 8
+- Scientists find a way to 'reboot' vision in adults with lazy eye
+- Theoretical training during sabbatical
+- Need Advice
+
+Cluster 9
+- Helical rover wheel balloons from 9 to 20 inches &amp; survives fire
+- New &amp; old drug combo drops cholesterol by 49% in human trial
+- AMA: I'm the co-founder at TryHackMe. Ask me about breaking into the industry, cyber security skills and how to make SOC

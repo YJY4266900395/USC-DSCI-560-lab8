@@ -1,0 +1,52 @@
+Word2Vec+Bins - cfg2_bins100
+============================================================
+
+Cluster 0
+- Sixteen Claude AI agents working together created a new C compiler
+- A New AI Math Startup Just Cracked 4 Previously Unsolved Problems
+- Models that improve on their own are AI's next big thing
+
+Cluster 1
+- Hybrid jet engines work to excel where pure-electric jets fail
+- App that translates speech to sign language in real-time wins top innovation prize
+- MSP and cyber security in Houston
+
+Cluster 2
+- ADHD 'audio shield' turns sounds from daily tasks into powerful focus tool
+- Secure way to manage endpoint admin accounts without PAM?
+- Sophos Pop Up
+
+Cluster 3
+- Big blimp uses blades to pull wind power out of the sky
+- This fusion energy startup thinks it can cut lasers out of the equation
+- People Could Be ‘Resurrected’ in Robotic Bodies One Day, Futurist Believes. Now He’s Taken the First Step.
+
+Cluster 4
+- PAC-MANN diagnoses early-stage pancreatic cancer with 85% accuracy
+- State-Backed Hackers Weaponize Google Gemini Across Cyberattack Lifecycles
+- MS Word CvE 2026
+
+Cluster 5
+- AI Models Are Starting to Learn by Asking Themselves Questions
+- Silicon 'postage stamp' implant instantly emails your thoughts to AI
+- Theoretical training during sabbatical
+
+Cluster 6
+- Engineers Just Developed a Perfect Material for a Truly Unsinkable Ship
+- A quick stretch switches this polymer’s capacity to transport heat
+- Harvard engineers 3D-print soft robots that bend, twist, grasp, and move on command
+
+Cluster 7
+- These paper batteries made from plants want to replace AA and AAA cells
+- Futuristic pixel-raising display lets you feel what’s onscreen
+- Underwater arms race: How robot subs will outwit next-gen sonar
+
+Cluster 8
+- Sugar molecules used to destroy antibiotic-resistant bacteria
+- 3D-printed batteries aim to reshape energy storage in small devices
+- Breakthrough: Scientists Created a 'Universal' Kidney To Match Any Blood Type
+
+Cluster 9
+- Chip stress-tests blood cells to see if donated blood is still good enough
+- Leaf-scan tells farmers when fruit is ripe – without destroying it
+- how far are we from deepfakes being as common as email phishing?
