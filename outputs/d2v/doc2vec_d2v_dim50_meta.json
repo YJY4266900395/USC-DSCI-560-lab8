@@ -9,16 +9,16 @@
     "dm": 1
   },
   "k": 8,
-  "n_docs": 4948,
+  "n_docs": 4982,
   "embedding_dim": 50,
-  "created_at": "2026-03-05T12:06:19.048555Z",
+  "created_at": "2026-03-05T12:34:41.806185Z",
   "text_fields_used": [
     "final_text",
     "ocr_text"
   ],
   "metrics": {
-    "silhouette": 0.39079999923706055,
-    "calinski_harabasz": 23.5346,
-    "davies_bouldin": 1.5223
+    "silhouette": 0.05730000138282776,
+    "calinski_harabasz": 253.7958,
+    "davies_bouldin": 2.9022
   }
 }

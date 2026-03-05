@@ -272,12 +272,15 @@ def run_config(
 
     # Cluster with cosine distance using Agglomerative Clustering
     emb_norm = normalize(embeddings, norm="l2")
-    agg = AgglomerativeClustering(
-        n_clusters=k,
-        metric="cosine",
-        linkage="average",
-    )
-    labels = agg.fit_predict(emb_norm).astype(int)
+    # agg = AgglomerativeClustering(
+    #     n_clusters=k,
+    #     metric="cosine",
+    #     linkage="average",
+    # )
+    # labels = agg.fit_predict(emb_norm).astype(int)
+    kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
+    labels = kmeans.fit_predict(emb_norm).astype(int)
+    centroids = kmeans.cluster_centers_
     print("[INFO] Cluster sizes:", dict(Counter(labels.tolist())))
 
     # Compute centroids as mean of normalized embeddings per cluster
@@ -332,7 +335,7 @@ def run_config(
 
     if do_plot:
         plot_path = os.path.join(out_dir, f"{prefix}_clusters_plot.png")
-        maybe_plot(embeddings, labels, outpath=plot_path,
+        maybe_plot(emb_norm, labels, outpath=plot_path,
                    title=f"{method} [{name}] k={k} (PCA 2D)")
         print(f"[DONE] Wrote {plot_path}")
 
