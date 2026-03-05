@@ -20,9 +20,9 @@ from utils import prepare_data, run_config
 # Three configs with DIFFERENT vector sizes (required by assignment)
 
 DOC2VEC_CONFIGS = [
-    {"name": "d2v_dim30",  "vector_size": 30,  "min_count": 3, "epochs": 30, "window": 5,  "dm": 1},
-    {"name": "d2v_dim50", "vector_size": 50, "min_count": 3, "epochs": 30, "window": 5,  "dm": 1},
-    {"name": "d2v_dim100", "vector_size": 100, "min_count": 3, "epochs": 30, "window": 5, "dm": 1},
+    {"name": "d2v_dim50",  "vector_size": 50,  "min_count": 3, "epochs": 20, "window": 5,  "dm": 1},
+    {"name": "d2v_dim100", "vector_size": 100, "min_count": 3, "epochs": 20, "window": 5,  "dm": 1},
+    {"name": "d2v_dim200", "vector_size": 200, "min_count": 3, "epochs": 20, "window": 5, "dm": 1},
 ]
 
 
@@ -36,7 +36,7 @@ def compute_doc2vec_embeddings(tokenized_docs, config):
         epochs=config["epochs"],
         window=config["window"],
         dm=config["dm"],
-        workers=4,
+        workers=1,
         seed=42,
     )
     model.build_vocab(tagged)

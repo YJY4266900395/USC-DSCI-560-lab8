@@ -1,0 +1,466 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "ai, data, like",
+    "size": 2728,
+    "top_keywords": [
+      "ai",
+      "data",
+      "like",
+      "just",
+      "https",
+      "ve",
+      "time",
+      "work",
+      "security",
+      "know"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1o6ck4l",
+        "subreddit": "artificial",
+        "title": "Anthropic cofounder admits he is now \"deeply afraid\" ... \"We are dealing with a real and mysterious creature, not a simple and predictable machine ... We need the courage to see things as they are.\"",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1o6ck4l/anthropic_cofounder_admits_he_is_now_deeply/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/ndukseRd5R93X7cF4LIgbdRmJP94kAmTkb1bXMWiMzI.jpeg?auto=webp&s=3361c598d02a20f74a939de2a2b72f6a8a0fa87c",
+        "score": 209,
+        "num_comments": 221,
+        "created": "2025-10-14T11:10:05+00:00",
+        "final_text_preview": "He wrote: \"**CHILDREN IN THE DARK** I remember being a child and after the lights turned out I would look around my bedroom and I would see shapes in the darkness and I would become afraid – afraid these shapes were crea",
+        "cosine_similarity_to_centroid": 0.8524757027626038
+      },
+      {
+        "fullname": "t3_1n4rufc",
+        "subreddit": "datascience",
+        "title": "Let’s Build Something Together",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1n4rufc/lets_build_something_together/",
+        "is_image": false,
+        "image_url": "",
+        "score": 38,
+        "num_comments": 50,
+        "created": "2025-08-31T11:02:32+00:00",
+        "final_text_preview": "Hey everyone, After my last post about my struggles in finding a remote job, I was honestly blown away. I got over 50 messages not with job offers, but with stories, frustrations, and suggestions. The common theme? Many ",
+        "cosine_similarity_to_centroid": 0.8371405601501465
+      },
+      {
+        "fullname": "t3_1lnf5xn",
+        "subreddit": "cybersecurity",
+        "title": "Hiring Manager's Tips: Interviewing for Cybersecurity Jobs",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1lnf5xn/hiring_managers_tips_interviewing_for/",
+        "is_image": false,
+        "image_url": "",
+        "score": 463,
+        "num_comments": 97,
+        "created": "2025-06-29T13:50:35+00:00",
+        "final_text_preview": "Who I am: I have been a hiring manager in the cybersecurity space (operations, governance, risk, and compliance) for about 20 years. I have held these positions at financial institutions, healthcare, consulting, audit, a",
+        "cosine_similarity_to_centroid": 0.8362035155296326
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "ai, ai hype, saas",
+    "size": 13,
+    "top_keywords": [
+      "ai",
+      "ai hype",
+      "saas",
+      "hype",
+      "translate",
+      "fully",
+      "databricks",
+      "fifth",
+      "ev",
+      "busy"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1q4pbsd",
+        "subreddit": "artificial",
+        "title": "We're so blinded by the AI Hype That We're Failing to See What Could Actually Be on the Horizon",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1q4pbsd/were_so_blinded_by_the_ai_hype_that_were_failing/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/X9TR2hGL_4ca20zIYz6-8vCfbOv6OHo0urCbTHObt80.jpeg?auto=webp&s=872556a6f521e391b67b8178294618db53c4f092",
+        "score": 20,
+        "num_comments": 32,
+        "created": "2026-01-05T15:53:30+00:00",
+        "final_text_preview": "We're so blinded by the AI Hype That We're Failing to See What Could Actually Be on the Horizon",
+        "cosine_similarity_to_centroid": 0.8114209771156311
+      },
+      {
+        "fullname": "t3_1rfo3ma",
+        "subreddit": "technology",
+        "title": "Actually, the left is winning the AI debate",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rfo3ma/actually_the_left_is_winning_the_ai_debate/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/6hnjAfrInEPIdWKMGYB8UAznkdhoBCPll_Z0K6FcQKk.jpeg?auto=webp&s=433a9fad3a38f9dbc45b77e41568f347c17f425b",
+        "score": 11,
+        "num_comments": 49,
+        "created": "2026-02-26T22:08:43+00:00",
+        "final_text_preview": "Actually, the left is winning the AI debate",
+        "cosine_similarity_to_centroid": 0.7653588652610779
+      },
+      {
+        "fullname": "t3_1ridcxg",
+        "subreddit": "technology",
+        "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+        "permalink": "https://old.reddit.com/r/technology/comments/1ridcxg/saas_in_saas_out_heres_whats_driving_the/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Dm_3NOb_7W_DJ0TeU41DO0PqIh7YHaTI9KZIkAZlmQU.jpeg?auto=webp&s=824d3224cf3958b642dd81b0d5fbd6d0fe45f153",
+        "score": 79,
+        "num_comments": 20,
+        "created": "2026-03-01T23:57:46+00:00",
+        "final_text_preview": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+        "cosine_similarity_to_centroid": 0.6986236572265625
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "new, cancer, cells",
+    "size": 682,
+    "top_keywords": [
+      "new",
+      "cancer",
+      "cells",
+      "brain",
+      "scientists",
+      "breakthrough",
+      "drug",
+      "researchers",
+      "ai",
+      "treatment"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1mqudzz",
+        "subreddit": "tech",
+        "title": "The rare, highly valued Taiwanese forest fungus fights inflammation and stifles cancer cells | N50 F2 was good at stopping cell proliferation in lung cancer cells and shield tissues from damage as a result of chronic disease inflammation.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1mqudzz/the_rare_highly_valued_taiwanese_forest_fungus/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/dJQ0tUaK0N8kubHM5KIoGX7RW4TCb4Hj9TdIINNEOCM.png?auto=webp&s=19ba18de3b7ceb9e51ddeb67c729bf73505cde62",
+        "score": 1005,
+        "num_comments": 32,
+        "created": "2025-08-15T10:55:09+00:00",
+        "final_text_preview": "The rare, highly valued Taiwanese forest fungus fights inflammation and stifles cancer cells | N50 F2 was good at stopping cell proliferation in lung cancer cells and shield tissues from damage as a result of chronic dis",
+        "cosine_similarity_to_centroid": 0.8939612507820129
+      },
+      {
+        "fullname": "t3_1nynmwe",
+        "subreddit": "tech",
+        "title": "Psychedelic DMT shows promise as breakthrough stroke treatment",
+        "permalink": "https://old.reddit.com/r/tech/comments/1nynmwe/psychedelic_dmt_shows_promise_as_breakthrough/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/EpP0XCR5tollRoINPscEoDDKOzMY9cAo13nVRddb-uA.jpeg?auto=webp&s=52275d9dc0f7c83bd21b94c1c6c1b2341fd53f12",
+        "score": 1728,
+        "num_comments": 127,
+        "created": "2025-10-05T13:02:45+00:00",
+        "final_text_preview": "Psychedelic DMT shows promise as breakthrough stroke treatment",
+        "cosine_similarity_to_centroid": 0.8910955190658569
+      },
+      {
+        "fullname": "t3_1l9jwmy",
+        "subreddit": "tech",
+        "title": "Pancreatic cancer vaccine eradicates trace of disease in early trials",
+        "permalink": "https://old.reddit.com/r/tech/comments/1l9jwmy/pancreatic_cancer_vaccine_eradicates_trace_of/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/uN6norwkGVFG4YJVxghfGgQQffZjImf09Lb_0v7GfAg.jpg?auto=webp&s=c62bef501fe94d10b1100d0f69564ea864162e43",
+        "score": 5744,
+        "num_comments": 221,
+        "created": "2025-06-12T11:19:52+00:00",
+        "final_text_preview": "Pancreatic cancer vaccine eradicates trace of disease in early trials",
+        "cosine_similarity_to_centroid": 0.8805904388427734
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "ai, says, trump",
+    "size": 1454,
+    "top_keywords": [
+      "ai",
+      "says",
+      "trump",
+      "openai",
+      "ceo",
+      "anthropic",
+      "data",
+      "pentagon",
+      "billion",
+      "new"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1oj07ph",
+        "subreddit": "cybersecurity",
+        "title": "Exclusive: CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1oj07ph/exclusive_ceo_of_spyware_maker_memento_labs/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/T20vhIsVYtHOTcLwt6-Cv5J1WHMwdGR-btl-U0NgOBc.png?auto=webp&s=d4db5ae1ac1e31405c20b6884d56e1787edf152b",
+        "score": 410,
+        "num_comments": 14,
+        "created": "2025-10-29T09:48:24+00:00",
+        "final_text_preview": "Exclusive: CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware",
+        "cosine_similarity_to_centroid": 0.7734165191650391
+      },
+      {
+        "fullname": "t3_1mbegii",
+        "subreddit": "technology",
+        "title": "Hegseth Secretly Splurges Nuclear Cash on Trump’s ‘Free’ Jet | The Defense Department raided its own coffers to fix up the president’s $400 million jet from Qatar.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1mbegii/hegseth_secretly_splurges_nuclear_cash_on_trumps/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/A-CBxl845Kjnkg8k7OpgrFKBwfDUAX_oNXzIfiHOq70.jpeg?auto=webp&s=61c59be3dfc00cea448b0c6593669dbbf54bf050",
+        "score": 28876,
+        "num_comments": 791,
+        "created": "2025-07-28T12:10:26+00:00",
+        "final_text_preview": "Hegseth Secretly Splurges Nuclear Cash on Trump’s ‘Free’ Jet | The Defense Department raided its own coffers to fix up the president’s $400 million jet from Qatar.",
+        "cosine_similarity_to_centroid": 0.7449060678482056
+      },
+      {
+        "fullname": "t3_1rl1qux",
+        "subreddit": "technology",
+        "title": "Arm's $250 million deal with Malaysia probed by anti-corruption authorities — $1.27 million seized from safehouse of prominent politician, former army chief arrested",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rl1qux/arms_250_million_deal_with_malaysia_probed_by/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/peBIMhDC_4O5O6mN2FsqJTOEwUor4ZZAtU48EDUWBdk.jpeg?auto=webp&s=f5fe3b8c6729b6026cc3f0bbcf0b0957981b5337",
+        "score": 42,
+        "num_comments": 0,
+        "created": "2026-03-04T23:47:50+00:00",
+        "final_text_preview": "Arm's $250 million deal with Malaysia probed by anti-corruption authorities — $1.27 million seized from safehouse of prominent politician, former army chief arrested",
+        "cosine_similarity_to_centroid": 0.7444296479225159
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "addicted, quicksort, hair",
+    "size": 21,
+    "top_keywords": [
+      "addicted",
+      "quicksort",
+      "hair",
+      "gambling",
+      "att ck",
+      "mitre att",
+      "ck",
+      "att",
+      "cut",
+      "naive"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1mfvvlx",
+        "subreddit": "computerscience",
+        "title": "A Brief Look at the Mathematics of Structure Packing",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1mfvvlx/a_brief_look_at_the_mathematics_of_structure/",
+        "is_image": false,
+        "image_url": "",
+        "score": 9,
+        "num_comments": 2,
+        "created": "2025-08-02T17:14:59+00:00",
+        "final_text_preview": "A Brief Look at the Mathematics of Structure Packing",
+        "cosine_similarity_to_centroid": 0.8138589262962341
+      },
+      {
+        "fullname": "t3_1l726ys",
+        "subreddit": "tech",
+        "title": "Swapping slag for sludge leads to emissions-cutting tough concrete | Using more sludge and less slag in their recipe, researchers were able to create a material that's stronger than even today's enhanced cements and highly resistant to corrosion by acid.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1l726ys/swapping_slag_for_sludge_leads_to/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/usSwt5UuwoFl3IUifY6FaoCW7cyi4V66Bx4To1xWxgw.jpg?auto=webp&s=ad62126728ca64a9603e2f5f5ae0522f34e4fbae",
+        "score": 721,
+        "num_comments": 24,
+        "created": "2025-06-09T11:20:26+00:00",
+        "final_text_preview": "Swapping slag for sludge leads to emissions-cutting tough concrete | Using more sludge and less slag in their recipe, researchers were able to create a material that's stronger than even today's enhanced cements and high",
+        "cosine_similarity_to_centroid": 0.7487520575523376
+      },
+      {
+        "fullname": "t3_1mruqug",
+        "subreddit": "tech",
+        "title": "Tooth-protecting paste is made from hair. Yes, hair",
+        "permalink": "https://old.reddit.com/r/tech/comments/1mruqug/toothprotecting_paste_is_made_from_hair_yes_hair/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/AyjabFiQdSS40UhwdpT8WtYA9II5XJym4m-tY8_po5E.jpeg?auto=webp&s=a98f1b64e162374ecf1460ed1f3160fa29382638",
+        "score": 328,
+        "num_comments": 23,
+        "created": "2025-08-16T13:06:29+00:00",
+        "final_text_preview": "Tooth-protecting paste is made from hair. Yes, hair",
+        "cosine_similarity_to_centroid": 0.7426210045814514
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "physics, program, introduction",
+    "size": 22,
+    "top_keywords": [
+      "physics",
+      "program",
+      "introduction",
+      "programmer",
+      "particle",
+      "bio",
+      "spits",
+      "particle physics",
+      "alive",
+      "mechanical"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nenrg8",
+        "subreddit": "datascience",
+        "title": "An introduction to program synthesis",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1nenrg8/an_introduction_to_program_synthesis/",
+        "is_image": false,
+        "image_url": "",
+        "score": 6,
+        "num_comments": 2,
+        "created": "2025-09-11T23:21:51+00:00",
+        "final_text_preview": "An introduction to program synthesis",
+        "cosine_similarity_to_centroid": 0.8694878220558167
+      },
+      {
+        "fullname": "t3_1p1sc1l",
+        "subreddit": "computerscience",
+        "title": "Sharing a personal cryptography experiment: Dynamic Abstraction Cryptography + Kraken-GS implementation",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1p1sc1l/sharing_a_personal_cryptography_experiment/",
+        "is_image": false,
+        "image_url": "",
+        "score": 0,
+        "num_comments": 0,
+        "created": "2025-11-20T03:09:29+00:00",
+        "final_text_preview": "Sharing a personal cryptography experiment: Dynamic Abstraction Cryptography + Kraken-GS implementation",
+        "cosine_similarity_to_centroid": 0.6888132691383362
+      },
+      {
+        "fullname": "t3_1nas3sn",
+        "subreddit": "tech",
+        "title": "Mechanical piston CPR could keep astronauts stayin' alive",
+        "permalink": "https://old.reddit.com/r/tech/comments/1nas3sn/mechanical_piston_cpr_could_keep_astronauts/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Obqsi6ZPm2Otc6SND8NDnWFGQ-71K9F8RPWnu6TOugw.jpeg?auto=webp&s=0e0c7d1e0a4af71be44d5090796948436d78ab64",
+        "score": 231,
+        "num_comments": 28,
+        "created": "2025-09-07T12:38:17+00:00",
+        "final_text_preview": "Mechanical piston CPR could keep astronauts stayin' alive",
+        "cosine_similarity_to_centroid": 0.6769508123397827
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "character, rules, visualization",
+    "size": 17,
+    "top_keywords": [
+      "character",
+      "rules",
+      "visualization",
+      "destroy",
+      "prescription",
+      "assistant",
+      "diagram",
+      "trans",
+      "wsj",
+      "space"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1k7q893",
+        "subreddit": "computerscience",
+        "title": "What,s actually in free memory!",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1k7q893/whats_actually_in_free_memory/",
+        "is_image": false,
+        "image_url": "",
+        "score": 36,
+        "num_comments": 27,
+        "created": "2025-04-25T17:09:40+00:00",
+        "final_text_preview": "So let’s say I bought a new SSD and installed it into a PC. Before I format it or install anything, what’s really in that “free” or “empty” space? Is it all zeros? Is it just undefined bits? Does it contain null? Or does",
+        "cosine_similarity_to_centroid": 0.7541632652282715
+      },
+      {
+        "fullname": "t3_1ku83f5",
+        "subreddit": "technology",
+        "title": "German court rules cookie banners must offer \"reject all\" button",
+        "permalink": "https://old.reddit.com/r/technology/comments/1ku83f5/german_court_rules_cookie_banners_must_offer/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/0JDeY6GucYwzAvBHwUB0LKuDfJK11Gt5LobySzjzITA.jpg?auto=webp&s=b492b1ca6a62070da6edca7127ec9812001ee64c",
+        "score": 56446,
+        "num_comments": 794,
+        "created": "2025-05-24T10:01:40+00:00",
+        "final_text_preview": "German court rules cookie banners must offer \"reject all\" button",
+        "cosine_similarity_to_centroid": 0.7456728219985962
+      },
+      {
+        "fullname": "t3_1r0q6oq",
+        "subreddit": "cybersecurity",
+        "title": "Andrew Morris finds iOS AdGuard is written by Russians and injects 20K lines into your browser",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1r0q6oq/andrew_morris_finds_ios_adguard_is_written_by/",
+        "is_image": false,
+        "image_url": "",
+        "score": 1190,
+        "num_comments": 100,
+        "created": "2026-02-10T03:45:04+00:00",
+        "final_text_preview": "Andrew Morris finds iOS AdGuard is written by Russians and injects 20K lines into your browser",
+        "cosine_similarity_to_centroid": 0.7165987491607666
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "schools, lab, technology",
+    "size": 10,
+    "top_keywords": [
+      "schools",
+      "lab",
+      "technology",
+      "digital",
+      "diagram",
+      "shrink",
+      "template",
+      "2025",
+      "ot",
+      "pulled"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1ptd5uy",
+        "subreddit": "artificial",
+        "title": "Steam games that openly use generative AI earned $660 million this year, including Call of Duty: Black Ops 6, Stellaris, and more, as studios continue to rely on the technology",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1ptd5uy/steam_games_that_openly_use_generative_ai_earned/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/yMX5cQPgne7L7yMmMF_nzIFx2pHwcLhvUsnHyFPbvkQ.jpeg?auto=webp&s=708cac40d301414245afd77060b13c882f0fcfe8",
+        "score": 170,
+        "num_comments": 174,
+        "created": "2025-12-22T22:37:27+00:00",
+        "final_text_preview": "Steam games that openly use generative AI earned $660 million this year, including Call of Duty: Black Ops 6, Stellaris, and more, as studios continue to rely on the technology",
+        "cosine_similarity_to_centroid": 0.74986732006073
+      },
+      {
+        "fullname": "t3_1o151cx",
+        "subreddit": "artificial",
+        "title": "Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1o151cx/without_data_centers_gdp_growth_was_01_in_the/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/CcnQEFUaiGUXWZZT13rpRjoETdgrxtOH8EhBXHy9Uxw.jpeg?auto=webp&s=1834119a675fbb918911888c16c40a67ac102cf7",
+        "score": 255,
+        "num_comments": 36,
+        "created": "2025-10-08T08:38:27+00:00",
+        "final_text_preview": "Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says",
+        "cosine_similarity_to_centroid": 0.7104427218437195
+      },
+      {
+        "fullname": "t3_1l0o4lq",
+        "subreddit": "cybersecurity",
+        "title": "Banking groups ask SEC to drop cybersecurity incident disclosure rule",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1l0o4lq/banking_groups_ask_sec_to_drop_cybersecurity/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/GnznQk8VYnR5efd2fRuJz8iwIq0ipGp0oHB2CZacATM.jpg?auto=webp&s=f0416bf566212161a5e4f37cc2284b2e5bb55fc9",
+        "score": 806,
+        "num_comments": 46,
+        "created": "2025-06-01T12:46:59+00:00",
+        "final_text_preview": "Banking groups ask SEC to drop cybersecurity incident disclosure rule",
+        "cosine_similarity_to_centroid": 0.7082465887069702
+      }
+    ]
+  }
+]

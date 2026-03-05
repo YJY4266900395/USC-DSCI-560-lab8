@@ -1,0 +1,466 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "step, image, map",
+    "size": 53,
+    "top_keywords": [
+      "step",
+      "image",
+      "map",
+      "engine",
+      "flow",
+      "detect",
+      "local ai",
+      "ai",
+      "uses",
+      "books"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1qk6g5g",
+        "subreddit": "artificial",
+        "title": "Bwocks: indie local-first ai-native spreadsheet for creatives",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qk6g5g/bwocks_indie_localfirst_ainative_spreadsheet_for/",
+        "is_image": false,
+        "image_url": "",
+        "score": 4,
+        "num_comments": 2,
+        "created": "2026-01-22T20:53:33+00:00",
+        "final_text_preview": "Bwocks: indie local-first ai-native spreadsheet for creatives",
+        "cosine_similarity_to_centroid": 0.7554461359977722
+      },
+      {
+        "fullname": "t3_1rgpae5",
+        "subreddit": "cybersecurity",
+        "title": "Oswe",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rgpae5/oswe/",
+        "is_image": false,
+        "image_url": "",
+        "score": 6,
+        "num_comments": 0,
+        "created": "2026-02-28T01:27:43+00:00",
+        "final_text_preview": "I hold OSEP, CRTE, CRTP, CPTS. I’m comfortable identifying vulnerabilities (e.g., prototype pollution, deserialization), but I struggle heavily with tracing execution flow in large unfamiliar codebases like Bassmaster an",
+        "cosine_similarity_to_centroid": 0.751528263092041
+      },
+      {
+        "fullname": "t3_1pu42mc",
+        "subreddit": "technology",
+        "title": "Some Epstein file redactions are being undone with hacks. Un-redacted text from released documents began circulating on social media on Monday evening",
+        "permalink": "https://old.reddit.com/r/technology/comments/1pu42mc/some_epstein_file_redactions_are_being_undone/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WMzJ5FOYoLV7ez4yKwGlBNaSmT9ZHkA1nklaRGmiS9k.jpeg?auto=webp&s=d28f022eba302080449481c96f04b8f6b80c6aea",
+        "score": 27176,
+        "num_comments": 1002,
+        "created": "2025-12-23T20:22:21+00:00",
+        "final_text_preview": "Some Epstein file redactions are being undone with hacks. Un-redacted text from released documents began circulating on social media on Monday evening",
+        "cosine_similarity_to_centroid": 0.7255153059959412
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "ai, data, like",
+    "size": 2511,
+    "top_keywords": [
+      "ai",
+      "data",
+      "like",
+      "just",
+      "ve",
+      "https",
+      "time",
+      "work",
+      "know",
+      "security"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1lluwlv",
+        "subreddit": "datascience",
+        "title": "Data Science Has Become a Pseudo-Science",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1lluwlv/data_science_has_become_a_pseudoscience/",
+        "is_image": false,
+        "image_url": "",
+        "score": 2759,
+        "num_comments": 353,
+        "created": "2025-06-27T14:11:44+00:00",
+        "final_text_preview": "I’ve been working in data science for the last ten years, both in industry and academia, having pursued a master’s and PhD in Europe. My experience in the industry, overall, has been very positive. I’ve had the opportuni",
+        "cosine_similarity_to_centroid": 0.9110187292098999
+      },
+      {
+        "fullname": "t3_1lmneo7",
+        "subreddit": "datascience",
+        "title": "I built a self-hosted Databricks",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1lmneo7/i_built_a_selfhosted_databricks/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/1sm6WdIGWXee_Qdhn4zjQodTX4AMMpSpjrO_bl503bc.png?auto=webp&s=4ab24bd4928d828f93d2da4c9b65c491a5672378",
+        "score": 82,
+        "num_comments": 20,
+        "created": "2025-06-28T13:55:44+00:00",
+        "final_text_preview": "Hey everyone, I'm an ML Engineer who spearheaded the adoption of Databricks at work. I love the agency it affords me because I can own projects end-to-end and do everything in one place. However, the platform adds a lot ",
+        "cosine_similarity_to_centroid": 0.906383752822876
+      },
+      {
+        "fullname": "t3_1rkn6zc",
+        "subreddit": "cybersecurity",
+        "title": "Feeling lost about the future of secure coding as a pentester. Anyone else?",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rkn6zc/feeling_lost_about_the_future_of_secure_coding_as/",
+        "is_image": false,
+        "image_url": "",
+        "score": 43,
+        "num_comments": 32,
+        "created": "2026-03-04T14:42:07+00:00",
+        "final_text_preview": "I've been a pentester for a few years and lately I just can't find the motivation to keep studying for certs. Honestly it's because of what I've seen AI do to secure coding lately. I did some tests recently and it's kind",
+        "cosine_similarity_to_centroid": 0.901212215423584
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "new, cancer, cells",
+    "size": 738,
+    "top_keywords": [
+      "new",
+      "cancer",
+      "cells",
+      "brain",
+      "ai",
+      "breakthrough",
+      "scientists",
+      "drug",
+      "treatment",
+      "human"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1mtim9m",
+        "subreddit": "tech",
+        "title": "'Neural pruning' drives smell loss in early, silent stages of Alzheimer's | Scientists uncover the mechanism behind the loss of smell – which can be one of the first indicators of Alzheimer's disease",
+        "permalink": "https://old.reddit.com/r/tech/comments/1mtim9m/neural_pruning_drives_smell_loss_in_early_silent/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/zxDdbKOwwOvhjitzsj5BtpXxVf8zB5BUIHNnan7dhuw.jpeg?auto=webp&s=1b40daabca675df97ba35dcaf9af8a59b3de01cb",
+        "score": 482,
+        "num_comments": 19,
+        "created": "2025-08-18T10:49:34+00:00",
+        "final_text_preview": "'Neural pruning' drives smell loss in early, silent stages of Alzheimer's | Scientists uncover the mechanism behind the loss of smell – which can be one of the first indicators of Alzheimer's disease",
+        "cosine_similarity_to_centroid": 0.916480541229248
+      },
+      {
+        "fullname": "t3_1mevi5m",
+        "subreddit": "tech",
+        "title": "Implantable device could save diabetes patients from dangerously low blood sugar | The new implant carries a reservoir of glucagon that can be stored under the skin and deployed during an emergency — with no injections needed.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1mevi5m/implantable_device_could_save_diabetes_patients/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/q9L9FUCUmSNz7srb7TzRkEaDSd_7Kewrp4NP76e0lvU.jpeg?auto=webp&s=47bcd2d349b007ea21748a93388c75b4ad203f62",
+        "score": 342,
+        "num_comments": 15,
+        "created": "2025-08-01T12:44:09+00:00",
+        "final_text_preview": "Implantable device could save diabetes patients from dangerously low blood sugar | The new implant carries a reservoir of glucagon that can be stored under the skin and deployed during an emergency — with no injections n",
+        "cosine_similarity_to_centroid": 0.9138467311859131
+      },
+      {
+        "fullname": "t3_1lee305",
+        "subreddit": "tech",
+        "title": "Anti-aging \"glue\" naturally repairs damaged DNA to protect brain cells | A protein known as disulphide isomerase (PDI) assists against biological aging to ward off neurological degeneration including that seen in motor neuron, Alzheimer’s and Parkinson’s diseases.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1lee305/antiaging_glue_naturally_repairs_damaged_dna_to/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/PlUEzBaq_zAxGZ9Lcn_R9Qj0J88RjYt8YIGeYqYvgKo.png?auto=webp&s=190ea1a33c9a87dcfa98bc30d1d31450fb095a3e",
+        "score": 1706,
+        "num_comments": 53,
+        "created": "2025-06-18T10:55:35+00:00",
+        "final_text_preview": "Anti-aging \"glue\" naturally repairs damaged DNA to protect brain cells | A protein known as disulphide isomerase (PDI) assists against biological aging to ward off neurological degeneration including that seen in motor n",
+        "cosine_similarity_to_centroid": 0.9099522829055786
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "ai, trump, says",
+    "size": 1544,
+    "top_keywords": [
+      "ai",
+      "trump",
+      "says",
+      "openai",
+      "anthropic",
+      "ceo",
+      "billion",
+      "new",
+      "data",
+      "pentagon"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1l7szhs",
+        "subreddit": "technology",
+        "title": "Report: Trump Administration Ignored Advice When Installing Starlink at the White House A Wi-Fi network called ‘Starlink Guest’ appeared on White House phones, asking only for a password and not a username or a second form of authentication, The Washington Post reports.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1l7szhs/report_trump_administration_ignored_advice_when/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/y9o_amBJJBaVQVxpbipozsgROaB16JEW8O8mWSvUDVQ.jpg?auto=webp&s=eb1722a5986987cccb2035b30df551d5eeef5c40",
+        "score": 43930,
+        "num_comments": 1071,
+        "created": "2025-06-10T07:54:50+00:00",
+        "final_text_preview": "Report: Trump Administration Ignored Advice When Installing Starlink at the White House A Wi-Fi network called ‘Starlink Guest’ appeared on White House phones, asking only for a password and not a username or a second fo",
+        "cosine_similarity_to_centroid": 0.8827705383300781
+      },
+      {
+        "fullname": "t3_1mq2zlh",
+        "subreddit": "technology",
+        "title": "There’s a small problem with Trump’s export deal with Nvidia and AMD: The Constitution says it’s illegal",
+        "permalink": "https://old.reddit.com/r/technology/comments/1mq2zlh/theres_a_small_problem_with_trumps_export_deal/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/_zLnO7NxEwoq6OYCyFxO5XA7SL7us9koEBTziksScq4.jpeg?auto=webp&s=4e4958bc6fb0b3b20125635b5d773fa4f28b05cd",
+        "score": 27378,
+        "num_comments": 1061,
+        "created": "2025-08-14T14:56:40+00:00",
+        "final_text_preview": "There’s a small problem with Trump’s export deal with Nvidia and AMD: The Constitution says it’s illegal",
+        "cosine_similarity_to_centroid": 0.8720075488090515
+      },
+      {
+        "fullname": "t3_1oj07ph",
+        "subreddit": "cybersecurity",
+        "title": "Exclusive: CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1oj07ph/exclusive_ceo_of_spyware_maker_memento_labs/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/T20vhIsVYtHOTcLwt6-Cv5J1WHMwdGR-btl-U0NgOBc.png?auto=webp&s=d4db5ae1ac1e31405c20b6884d56e1787edf152b",
+        "score": 410,
+        "num_comments": 14,
+        "created": "2025-10-29T09:48:24+00:00",
+        "final_text_preview": "Exclusive: CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware",
+        "cosine_similarity_to_centroid": 0.8712010383605957
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "questions, search, education",
+    "size": 78,
+    "top_keywords": [
+      "questions",
+      "search",
+      "education",
+      "transitioning",
+      "com datascience",
+      "datascience",
+      "wiki",
+      "weekly",
+      "thread",
+      "videos"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1ph3u4m",
+        "subreddit": "datascience",
+        "title": "Weekly Entering & Transitioning - Thread 08 Dec, 2025 - 15 Dec, 2025",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1ph3u4m/weekly_entering_transitioning_thread_08_dec_2025/",
+        "is_image": false,
+        "image_url": "",
+        "score": 6,
+        "num_comments": 7,
+        "created": "2025-12-08T05:01:38+00:00",
+        "final_text_preview": "Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include: * Learning resources (e.g. books, tu",
+        "cosine_similarity_to_centroid": 0.9238595366477966
+      },
+      {
+        "fullname": "t3_1oh4tzk",
+        "subreddit": "datascience",
+        "title": "Weekly Entering & Transitioning - Thread 27 Oct, 2025 - 03 Nov, 2025",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1oh4tzk/weekly_entering_transitioning_thread_27_oct_2025/",
+        "is_image": false,
+        "image_url": "",
+        "score": 8,
+        "num_comments": 32,
+        "created": "2025-10-27T04:01:37+00:00",
+        "final_text_preview": "Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include: * Learning resources (e.g. books, tu",
+        "cosine_similarity_to_centroid": 0.9238595366477966
+      },
+      {
+        "fullname": "t3_1oz7lox",
+        "subreddit": "datascience",
+        "title": "Weekly Entering & Transitioning - Thread 17 Nov, 2025 - 24 Nov, 2025",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1oz7lox/weekly_entering_transitioning_thread_17_nov_2025/",
+        "is_image": false,
+        "image_url": "",
+        "score": 7,
+        "num_comments": 11,
+        "created": "2025-11-17T05:01:44+00:00",
+        "final_text_preview": "Welcome to this week's entering & transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include: * Learning resources (e.g. books, tu",
+        "cosine_similarity_to_centroid": 0.9238595366477966
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "value, upwork, fifth",
+    "size": 8,
+    "top_keywords": [
+      "value",
+      "upwork",
+      "fifth",
+      "ev",
+      "simplicity",
+      "busy",
+      "rich",
+      "ghz",
+      "success",
+      "website"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1o5kb52",
+        "subreddit": "artificial",
+        "title": "Sora 2 was a massive mistake and AI needs to regress.",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1o5kb52/sora_2_was_a_massive_mistake_and_ai_needs_to/",
+        "is_image": true,
+        "image_url": "https://www.reddit.com/gallery/1o5kb52",
+        "score": 708,
+        "num_comments": 248,
+        "created": "2025-10-13T13:52:44+00:00",
+        "final_text_preview": "Sora 2 was a massive mistake and AI needs to regress.",
+        "cosine_similarity_to_centroid": 0.863310694694519
+      },
+      {
+        "fullname": "t3_1m8vxty",
+        "subreddit": "tech",
+        "title": "Ultra-thin sound-blocking material effectively dampens traffic noise | EMPA's new mineral foam is 75% thinner than traditional sound absorbing materials, but equally effective",
+        "permalink": "https://old.reddit.com/r/tech/comments/1m8vxty/ultrathin_soundblocking_material_effectively/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Zww-z6gy5pPe9H5E1DcKOghDqX2BWpnH9AJdfuGvyRI.jpeg?auto=webp&s=4896d012e7fb11d25ce3a68350d7f9a11481dc8a",
+        "score": 861,
+        "num_comments": 43,
+        "created": "2025-07-25T10:48:58+00:00",
+        "final_text_preview": "Ultra-thin sound-blocking material effectively dampens traffic noise | EMPA's new mineral foam is 75% thinner than traditional sound absorbing materials, but equally effective",
+        "cosine_similarity_to_centroid": 0.8088555932044983
+      },
+      {
+        "fullname": "t3_1r380hb",
+        "subreddit": "computerscience",
+        "title": "How is computer GHz speed measured?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1r380hb/how_is_computer_ghz_speed_measured/",
+        "is_image": false,
+        "image_url": "",
+        "score": 31,
+        "num_comments": 37,
+        "created": "2026-02-12T22:45:46+00:00",
+        "final_text_preview": "How do they get the value for cpu Ghz speed. And why is it measured in Hz?",
+        "cosine_similarity_to_centroid": 0.7727526426315308
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "challenging, pulled, suite",
+    "size": 11,
+    "top_keywords": [
+      "challenging",
+      "pulled",
+      "suite",
+      "new",
+      "trillions",
+      "shrink",
+      "sad",
+      "magic",
+      "terrifying",
+      "showcases"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1naptuq",
+        "subreddit": "datascience",
+        "title": "🚀 Perpetual ML Suite: Now Live on the Snowflake Marketplace!",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1naptuq/perpetual_ml_suite_now_live_on_the_snowflake/",
+        "is_image": false,
+        "image_url": "",
+        "score": 1,
+        "num_comments": 3,
+        "created": "2025-09-07T10:31:17+00:00",
+        "final_text_preview": "🚀 Perpetual ML Suite: Now Live on the Snowflake Marketplace!",
+        "cosine_similarity_to_centroid": 0.8118500709533691
+      },
+      {
+        "fullname": "t3_1qccvkb",
+        "subreddit": "artificial",
+        "title": "Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/-GhT4M1kgDCfhVxQhRkf-96nxkvTDePREgOfU-yhl1E.jpeg?auto=webp&s=cac364cf392010c223dbf17f94186377d4795240",
+        "score": 26,
+        "num_comments": 7,
+        "created": "2026-01-14T03:45:20+00:00",
+        "final_text_preview": "Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe",
+        "cosine_similarity_to_centroid": 0.7619339227676392
+      },
+      {
+        "fullname": "t3_1rhh5mb",
+        "subreddit": "cybersecurity",
+        "title": "AI and security: the other bitter lesson -- Why we need new primitives to defend against prompt injection",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rhh5mb/ai_and_security_the_other_bitter_lesson_why_we/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/-3mm8XcVsOal-63DY93Oqz1eVnd_z95J-3eQ6GNE0-U.jpeg?auto=webp&s=f0c7757887c9b894b2b8a331f3b0cede92e39b38",
+        "score": 19,
+        "num_comments": 9,
+        "created": "2026-02-28T23:17:07+00:00",
+        "final_text_preview": "AI and security: the other bitter lesson -- Why we need new primitives to defend against prompt injection",
+        "cosine_similarity_to_centroid": 0.6939123272895813
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "ai kill, essay, backlog",
+    "size": 4,
+    "top_keywords": [
+      "ai kill",
+      "essay",
+      "backlog",
+      "lunar",
+      "safely",
+      "friends",
+      "slides",
+      "japan",
+      "stars",
+      "sake"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1oaotd7",
+        "subreddit": "tech",
+        "title": "Sake to the stars: Japan’s lunar brewing experiment set for takeoff",
+        "permalink": "https://old.reddit.com/r/tech/comments/1oaotd7/sake_to_the_stars_japans_lunar_brewing_experiment/",
+        "is_image": false,
+        "image_url": "",
+        "score": 465,
+        "num_comments": 11,
+        "created": "2025-10-19T12:49:29+00:00",
+        "final_text_preview": "Sake to the stars: Japan’s lunar brewing experiment set for takeoff",
+        "cosine_similarity_to_centroid": 0.8700845837593079
+      },
+      {
+        "fullname": "t3_1rfpetk",
+        "subreddit": "technology",
+        "title": "CoreWeave slides as surging capex, backlog risks overshadow small revenue beat",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rfpetk/coreweave_slides_as_surging_capex_backlog_risks/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/medAzS8Io6J_wKd2SbvOBnP1oJ237PKP1EhN-zhUFD0.jpeg?auto=webp&s=fb62695f8975d237b9c0878a5cce20e7559bed07",
+        "score": 66,
+        "num_comments": 2,
+        "created": "2026-02-26T22:59:45+00:00",
+        "final_text_preview": "CoreWeave slides as surging capex, backlog risks overshadow small revenue beat",
+        "cosine_similarity_to_centroid": 0.8700845241546631
+      },
+      {
+        "fullname": "t3_1ptvjpf",
+        "subreddit": "tech",
+        "title": "AI-powered 'glasses' help the blind go places – safely",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ptvjpf/aipowered_glasses_help_the_blind_go_places_safely/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/RXEqfVVn9VU7543GefFFBVW9QhKyGOWnz4UorGJ6YKA.jpeg?auto=webp&s=67a176df51dbc58210860a71985c4d9644df2052",
+        "score": 536,
+        "num_comments": 66,
+        "created": "2025-12-23T14:39:52+00:00",
+        "final_text_preview": "AI-powered 'glasses' help the blind go places – safely",
+        "cosine_similarity_to_centroid": 0.8460265398025513
+      }
+    ]
+  }
+]

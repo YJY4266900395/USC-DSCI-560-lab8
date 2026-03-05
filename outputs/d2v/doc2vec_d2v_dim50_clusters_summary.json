@@ -1,0 +1,414 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "ai, data, new",
+    "size": 4867,
+    "top_keywords": [
+      "ai",
+      "data",
+      "new",
+      "like",
+      "just",
+      "https",
+      "use",
+      "ve",
+      "security",
+      "time"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1q6cr7c",
+        "subreddit": "cybersecurity",
+        "title": "Hotel staff tricked into installing malware by bogus BSODs",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1q6cr7c/hotel_staff_tricked_into_installing_malware_by/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/tLZNg67RGLfD_FAKPIOwiEyJOh3EJU3MV2_nIFRCNIc.jpeg?auto=webp&s=a02585883b87a47e3c11a2c35690e6e0c90f497a",
+        "score": 338,
+        "num_comments": 21,
+        "created": "2026-01-07T11:17:03+00:00",
+        "final_text_preview": "Hotel staff tricked into installing malware by bogus BSODs",
+        "cosine_similarity_to_centroid": 0.9921963214874268
+      },
+      {
+        "fullname": "t3_1rl18hr",
+        "subreddit": "technology",
+        "title": "MONEY Duolingo Stock Is Falling Off a Cliff, Continuing a Dramatic Collapse. You Can’t Just Blame That ‘AI First’ Memo",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rl18hr/money_duolingo_stock_is_falling_off_a_cliff/",
+        "is_image": false,
+        "image_url": "",
+        "score": 347,
+        "num_comments": 88,
+        "created": "2026-03-04T23:26:53+00:00",
+        "final_text_preview": "MONEY Duolingo Stock Is Falling Off a Cliff, Continuing a Dramatic Collapse. You Can’t Just Blame That ‘AI First’ Memo",
+        "cosine_similarity_to_centroid": 0.9915345907211304
+      },
+      {
+        "fullname": "t3_1jlqdzt",
+        "subreddit": "tech",
+        "title": "New plastic dissolves in the ocean overnight, leaving no microplastics",
+        "permalink": "https://old.reddit.com/r/tech/comments/1jlqdzt/new_plastic_dissolves_in_the_ocean_overnight/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/k7uz7xxlvhyHWLq023iAXad1HDNKtlapivcHHrlQuj0.jpg?auto=webp&s=75aa10e4362c284482cb61dee7d89263aa53a472",
+        "score": 3162,
+        "num_comments": 158,
+        "created": "2025-03-28T08:30:49+00:00",
+        "final_text_preview": "New plastic dissolves in the ocean overnight, leaving no microplastics",
+        "cosine_similarity_to_centroid": 0.9902446269989014
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "china, data, meta",
+    "size": 18,
+    "top_keywords": [
+      "china",
+      "data",
+      "meta",
+      "product",
+      "ai",
+      "workers",
+      "glasses data",
+      "privacy concerns",
+      "employees",
+      "data privacy"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1pfw7gc",
+        "subreddit": "technology",
+        "title": "Nvidia CEO says data centers take about 3 years to construct in the U.S., while in China 'they can build a hospital in a weekend'",
+        "permalink": "https://old.reddit.com/r/technology/comments/1pfw7gc/nvidia_ceo_says_data_centers_take_about_3_years/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/ulbbZv_tqVBsk57JlSJ9Q3NuEzjDq0xZxJTAToCVwGc.jpeg?auto=webp&s=bafb6c9bd56484513bd6d55d9bf625fdfa5777e4",
+        "score": 22572,
+        "num_comments": 3270,
+        "created": "2025-12-06T18:26:21+00:00",
+        "final_text_preview": "Nvidia CEO says data centers take about 3 years to construct in the U.S., while in China 'they can build a hospital in a weekend'",
+        "cosine_similarity_to_centroid": 0.8208036422729492
+      },
+      {
+        "fullname": "t3_1rk6e6o",
+        "subreddit": "technology",
+        "title": "OpenAI's AI data agent, built by two engineers, now serves thousands of employees — and the company says anyone can replicate it",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rk6e6o/openais_ai_data_agent_built_by_two_engineers_now/",
+        "is_image": false,
+        "image_url": "",
+        "score": 0,
+        "num_comments": 5,
+        "created": "2026-03-04T00:18:16+00:00",
+        "final_text_preview": "OpenAI's AI data agent, built by two engineers, now serves thousands of employees — and the company says anyone can replicate it",
+        "cosine_similarity_to_centroid": 0.7948365807533264
+      },
+      {
+        "fullname": "t3_1mgtevo",
+        "subreddit": "cybersecurity",
+        "title": "Microsoft Used China-Based Engineers to Support Product Recently Hacked by China",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1mgtevo/microsoft_used_chinabased_engineers_to_support/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/xD1h8MGIZ5GSJj7Cuag9flcG-E8zUVjM92FFqcoXW1U.jpeg?auto=webp&s=0750a1fcbcb4a9f073a6ddea15eb5ca7fcd294a0",
+        "score": 278,
+        "num_comments": 9,
+        "created": "2025-08-03T20:20:16+00:00",
+        "final_text_preview": "Microsoft Used China-Based Engineers to Support Product Recently Hacked by China",
+        "cosine_similarity_to_centroid": 0.7426424622535706
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "science, data science, key",
+    "size": 16,
+    "top_keywords": [
+      "science",
+      "data science",
+      "key",
+      "data",
+      "materials",
+      "cybersecurity",
+      "transformative",
+      "away",
+      "ide",
+      "cv"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1kwlo3w",
+        "subreddit": "tech",
+        "title": "Salmon sperm facials: The science behind the anti-aging trend | Claims about salmon sperm facials are backed by science",
+        "permalink": "https://old.reddit.com/r/tech/comments/1kwlo3w/salmon_sperm_facials_the_science_behind_the/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/CH1V1LPxco1oq2Yo7HdWqv2ADVa2Ty3-0txCMiLOuPA.jpg?auto=webp&s=54399e1e15b5d071fcb4fdc1468857f7bbdf51bd",
+        "score": 891,
+        "num_comments": 240,
+        "created": "2025-05-27T12:12:16+00:00",
+        "final_text_preview": "Salmon sperm facials: The science behind the anti-aging trend | Claims about salmon sperm facials are backed by science",
+        "cosine_similarity_to_centroid": 0.9529906511306763
+      },
+      {
+        "fullname": "t3_1qdr06k",
+        "subreddit": "artificial",
+        "title": "Accelerating Discovery: How the Materials Project Is Helping to Usher in the AI Revolution for Materials Science",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qdr06k/accelerating_discovery_how_the_materials_project/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WSt3ob2WKslq1zMVfAqXgo3uKMEIETBuE-l4jPUE6Ds.jpeg?auto=webp&s=15ca97aac2cc16d0556bed81677d80740fad71f5",
+        "score": 2,
+        "num_comments": 0,
+        "created": "2026-01-15T18:09:37+00:00",
+        "final_text_preview": "Accelerating Discovery: How the Materials Project Is Helping to Usher in the AI Revolution for Materials Science",
+        "cosine_similarity_to_centroid": 0.9292168617248535
+      },
+      {
+        "fullname": "t3_1rh17h9",
+        "subreddit": "technology",
+        "title": "YouTube Shorts and Instagram Reels are making you dumber, according to science",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rh17h9/youtube_shorts_and_instagram_reels_are_making_you/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/igjShNPrvmgu7BGzsWZLmgyOVvkOIfqY8QJSpiBiqv0.jpeg?auto=webp&s=f77a6aa004b7c963e5232731fa17f61a2cd366b7",
+        "score": 18337,
+        "num_comments": 733,
+        "created": "2026-02-28T12:17:29+00:00",
+        "final_text_preview": "YouTube Shorts and Instagram Reels are making you dumber, according to science",
+        "cosine_similarity_to_centroid": 0.893749475479126
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "schools, books, ai",
+    "size": 23,
+    "top_keywords": [
+      "schools",
+      "books",
+      "ai",
+      "degrees",
+      "robot",
+      "paper",
+      "data",
+      "programming",
+      "says",
+      "computer"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1kxjbwh",
+        "subreddit": "technology",
+        "title": "AI Cheating Is So Out of Hand In America’s Schools That the Blue Books Are Coming Back | Pen and paper is back, baby.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1kxjbwh/ai_cheating_is_so_out_of_hand_in_americas_schools/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/dGeoKYtfC5PSmW5H-mqVsHNCOcr9RHG2k_EvhniU7m8.jpg?auto=webp&s=7d1f6a374960194648f3a4ab46626280a89651eb",
+        "score": 56203,
+        "num_comments": 3159,
+        "created": "2025-05-28T15:01:13+00:00",
+        "final_text_preview": "AI Cheating Is So Out of Hand In America’s Schools That the Blue Books Are Coming Back | Pen and paper is back, baby.",
+        "cosine_similarity_to_centroid": 0.9272763729095459
+      },
+      {
+        "fullname": "t3_1mbccgp",
+        "subreddit": "artificial",
+        "title": "Someone should tell the folks applying to schools right now",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1mbccgp/someone_should_tell_the_folks_applying_to_schools/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/h38d6vvjblff1.png",
+        "score": 793,
+        "num_comments": 346,
+        "created": "2025-07-28T10:14:41+00:00",
+        "final_text_preview": "Someone should tell the folks applying to schools right now",
+        "cosine_similarity_to_centroid": 0.7982357740402222
+      },
+      {
+        "fullname": "t3_1qknhjn",
+        "subreddit": "artificial",
+        "title": "I don’t think using AI for surveillance of kids in school is a good idea",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qknhjn/i_dont_think_using_ai_for_surveillance_of_kids_in/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/tocJDH4ip93eNjZ5pjwEew4avvrA4dS9DdCdYBI-bmM.jpeg?auto=webp&s=798e134ba6538218812bcf7f768651935a54bd67",
+        "score": 37,
+        "num_comments": 21,
+        "created": "2026-01-23T10:37:02+00:00",
+        "final_text_preview": "[I don’t think using AI for surveillance of kids in school is a good idea](https://decodingthefuturesociety.substack.com/p/i-dont-think-using-ai-for-surveillance) There's this post on [Linkedin](https://www.linkedin.com/",
+        "cosine_similarity_to_centroid": 0.7821146249771118
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "zuckerberg, experience help, experienced data",
+    "size": 1,
+    "top_keywords": [
+      "zuckerberg",
+      "experience help",
+      "experienced data",
+      "experienced",
+      "experience working",
+      "experience ve",
+      "experience using",
+      "experience like",
+      "experience let",
+      "experience just"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rftg7a",
+        "subreddit": "technology",
+        "title": "BMW Has M, Mercedes Has AMG, and Now Rivian Has RAD",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rftg7a/bmw_has_m_mercedes_has_amg_and_now_rivian_has_rad/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/qvEsuuJvD6WN8Z72FaAIb0vGGUK2_tF3fnu5KclPREA.jpeg?auto=webp&s=41ee67fb1ffb623cdcb9fbf7d8e821908d02d6be",
+        "score": 0,
+        "num_comments": 2,
+        "created": "2026-02-27T01:49:18+00:00",
+        "final_text_preview": "BMW Has M, Mercedes Has AMG, and Now Rivian Has RAD",
+        "cosine_similarity_to_centroid": 1.0
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "model, ai model, ai",
+    "size": 13,
+    "top_keywords": [
+      "model",
+      "ai model",
+      "ai",
+      "world",
+      "deepseek",
+      "launches",
+      "new",
+      "new ai",
+      "era",
+      "human"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rhgren",
+        "subreddit": "technology",
+        "title": "DeepSeek to release long-awaited AI model in new challenge to US rivals",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rhgren/deepseek_to_release_longawaited_ai_model_in_new/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/XcefdhpQglt_ODrB6KDlbDrZM1Ae7ghETf8AtlehJb8.jpeg?auto=webp&s=c153bc04adbec70d6661276319fc700d5cf0fc03",
+        "score": 1905,
+        "num_comments": 149,
+        "created": "2026-02-28T23:00:31+00:00",
+        "final_text_preview": "DeepSeek to release long-awaited AI model in new challenge to US rivals",
+        "cosine_similarity_to_centroid": 0.8826758861541748
+      },
+      {
+        "fullname": "t3_1r8yygn",
+        "subreddit": "tech",
+        "title": "New AI model could cut the costs of developing protein drugs",
+        "permalink": "https://old.reddit.com/r/tech/comments/1r8yygn/new_ai_model_could_cut_the_costs_of_developing/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/rrSpazFyWsVBmZ2wO6XRj4waasGDNV54dkBzm7FBJoQ.jpeg?auto=webp&s=460808669d23520e1d6614548919699fc4d77b9c",
+        "score": 294,
+        "num_comments": 48,
+        "created": "2026-02-19T13:17:26+00:00",
+        "final_text_preview": "New AI model could cut the costs of developing protein drugs",
+        "cosine_similarity_to_centroid": 0.8798930048942566
+      },
+      {
+        "fullname": "t3_1qjgmic",
+        "subreddit": "artificial",
+        "title": "Microsoft launches new AI model for real-world robotic learning",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qjgmic/microsoft_launches_new_ai_model_for_realworld/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/8BkLtew1SfGEIin1QOYgTSNmhNTLbwZYLNm2Pc2Wbr4.jpeg?auto=webp&s=b6f6033b256ea23b6318f03e412eba198d6302a4",
+        "score": 3,
+        "num_comments": 0,
+        "created": "2026-01-22T01:19:00+00:00",
+        "final_text_preview": "Microsoft launches new AI model for real-world robotic learning",
+        "cosine_similarity_to_centroid": 0.8412560224533081
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "disease, treatment, cancer",
+    "size": 1,
+    "top_keywords": [
+      "disease",
+      "treatment",
+      "cancer",
+      "advance",
+      "tool",
+      "research",
+      "new",
+      "experience like",
+      "experiences",
+      "experienced data"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1ngrj9k",
+        "subreddit": "tech",
+        "title": "New RNA tool to advance cancer and infectious disease research and treatment",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ngrj9k/new_rna_tool_to_advance_cancer_and_infectious/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/QBbAegdU3AAqhtYB--ezW1qhU9YjPw8qX3lRuxLwT6Q.jpeg?auto=webp&s=5377728555a73cb3e6cb7a6d4a4fe442a88ae3d2",
+        "score": 1184,
+        "num_comments": 34,
+        "created": "2025-09-14T13:37:50+00:00",
+        "final_text_preview": "New RNA tool to advance cancer and infectious disease research and treatment",
+        "cosine_similarity_to_centroid": 1.0000001192092896
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "years, don, 10 years",
+    "size": 9,
+    "top_keywords": [
+      "years",
+      "don",
+      "10 years",
+      "game",
+      "don care",
+      "agents",
+      "tech",
+      "10",
+      "operations",
+      "ai"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1oy535n",
+        "subreddit": "technology",
+        "title": "Tech Capitalists Don’t Care About Humans. Literally.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1oy535n/tech_capitalists_dont_care_about_humans_literally/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/tpqR888rg1SaFZ6mpR9mYiPj8wLxbeFBgsvGAsIXcQo.jpeg?auto=webp&s=a6b7b876e0e1c3df0d6ddcd6d54c1c72e1983dde",
+        "score": 19437,
+        "num_comments": 729,
+        "created": "2025-11-15T22:38:58+00:00",
+        "final_text_preview": "Tech Capitalists Don’t Care About Humans. Literally.",
+        "cosine_similarity_to_centroid": 0.7852942943572998
+      },
+      {
+        "fullname": "t3_1l77ym2",
+        "subreddit": "artificial",
+        "title": "Silicon Valley was always 10 years ahead of its time",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1l77ym2/silicon_valley_was_always_10_years_ahead_of_its/",
+        "is_image": true,
+        "image_url": "https://v.redd.it/7aaloyv98x5f1",
+        "score": 2567,
+        "num_comments": 75,
+        "created": "2025-06-09T15:36:16+00:00",
+        "final_text_preview": "Silicon Valley was always 10 years ahead of its time",
+        "cosine_similarity_to_centroid": 0.7798677086830139
+      },
+      {
+        "fullname": "t3_1px74op",
+        "subreddit": "artificial",
+        "title": "Travel agents took 10 years to collapse. Developers are 3 years in.",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1px74op/travel_agents_took_10_years_to_collapse/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/7DjQwnG7O1dwSFYWC4ZWBRJgJdI9tSeShN_eKopb9t4.png?auto=webp&s=3680f5827eeec9a90b9044779c7b889296569a14",
+        "score": 213,
+        "num_comments": 245,
+        "created": "2025-12-27T20:02:57+00:00",
+        "final_text_preview": "Travel agents took 10 years to collapse. Developers are 3 years in.",
+        "cosine_similarity_to_centroid": 0.7561138272285461
+      }
+    ]
+  }
+]

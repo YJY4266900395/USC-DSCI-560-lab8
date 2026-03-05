@@ -4,21 +4,21 @@
     "name": "d2v_dim100",
     "vector_size": 100,
     "min_count": 3,
-    "epochs": 30,
+    "epochs": 20,
     "window": 5,
     "dm": 1
   },
   "k": 8,
   "n_docs": 4948,
   "embedding_dim": 100,
-  "created_at": "2026-03-05T11:31:34.739796Z",
+  "created_at": "2026-03-05T12:06:25.835338Z",
   "text_fields_used": [
     "final_text",
     "ocr_text"
   ],
   "metrics": {
-    "silhouette": 0.09969999641180038,
-    "calinski_harabasz": 304.268,
-    "davies_bouldin": 2.5227
+    "silhouette": 0.36469998955726624,
+    "calinski_harabasz": 36.6676,
+    "davies_bouldin": 1.5155
   }
 }

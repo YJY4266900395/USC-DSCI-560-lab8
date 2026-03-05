@@ -1,0 +1,24 @@
+{
+  "method": "doc2vec",
+  "config": {
+    "name": "d2v_dim200",
+    "vector_size": 200,
+    "min_count": 3,
+    "epochs": 20,
+    "window": 5,
+    "dm": 1
+  },
+  "k": 8,
+  "n_docs": 4948,
+  "embedding_dim": 200,
+  "created_at": "2026-03-05T12:06:33.387561Z",
+  "text_fields_used": [
+    "final_text",
+    "ocr_text"
+  ],
+  "metrics": {
+    "silhouette": 0.38760000467300415,
+    "calinski_harabasz": 50.7196,
+    "davies_bouldin": 1.5598
+  }
+}

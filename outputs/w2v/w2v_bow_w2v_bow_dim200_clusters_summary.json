@@ -1,0 +1,466 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "ai, data, like",
+    "size": 2600,
+    "top_keywords": [
+      "ai",
+      "data",
+      "like",
+      "just",
+      "https",
+      "ve",
+      "time",
+      "work",
+      "know",
+      "com"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1lnf5xn",
+        "subreddit": "cybersecurity",
+        "title": "Hiring Manager's Tips: Interviewing for Cybersecurity Jobs",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1lnf5xn/hiring_managers_tips_interviewing_for/",
+        "is_image": false,
+        "image_url": "",
+        "score": 463,
+        "num_comments": 97,
+        "created": "2025-06-29T13:50:35+00:00",
+        "final_text_preview": "Who I am: I have been a hiring manager in the cybersecurity space (operations, governance, risk, and compliance) for about 20 years. I have held these positions at financial institutions, healthcare, consulting, audit, a",
+        "cosine_similarity_to_centroid": 0.791070818901062
+      },
+      {
+        "fullname": "t3_1on8llk",
+        "subreddit": "datascience",
+        "title": "[Opinion] AI will not replace DS. But it will eat your tasks. Prepare your skill sets for the future.",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1on8llk/opinion_ai_will_not_replace_ds_but_it_will_eat/",
+        "is_image": false,
+        "image_url": "",
+        "score": 280,
+        "num_comments": 72,
+        "created": "2025-11-03T10:49:22+00:00",
+        "final_text_preview": "Background: As a senior data scientist / ML engineer, I have been both individual contributor and team manager. In the last 6 months, I have been full-time building AI agents for data science & ML. Recently, I see a lot ",
+        "cosine_similarity_to_centroid": 0.7878516316413879
+      },
+      {
+        "fullname": "t3_1o6ck4l",
+        "subreddit": "artificial",
+        "title": "Anthropic cofounder admits he is now \"deeply afraid\" ... \"We are dealing with a real and mysterious creature, not a simple and predictable machine ... We need the courage to see things as they are.\"",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1o6ck4l/anthropic_cofounder_admits_he_is_now_deeply/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/ndukseRd5R93X7cF4LIgbdRmJP94kAmTkb1bXMWiMzI.jpeg?auto=webp&s=3361c598d02a20f74a939de2a2b72f6a8a0fa87c",
+        "score": 209,
+        "num_comments": 221,
+        "created": "2025-10-14T11:10:05+00:00",
+        "final_text_preview": "He wrote: \"**CHILDREN IN THE DARK** I remember being a child and after the lights turned out I would look around my bedroom and I would see shapes in the darkness and I would become afraid – afraid these shapes were crea",
+        "cosine_similarity_to_centroid": 0.7841019630432129
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "new, cancer, brain",
+    "size": 760,
+    "top_keywords": [
+      "new",
+      "cancer",
+      "brain",
+      "cells",
+      "drug",
+      "scientists",
+      "breakthrough",
+      "ai",
+      "researchers",
+      "battery"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1kgtsfa",
+        "subreddit": "tech",
+        "title": "Following a study in mice, scientists have now confirmed that silencing the MTCH2 protein in muscle tissue leads to energy-deprived human cells seeking out fat for fuel, while blocking the body's ability to store extra fat cells.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1kgtsfa/following_a_study_in_mice_scientists_have_now/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/EpXj2QeEv0rVUzHbabvVkNnPK4FeaE9KWYypBtXxyEw.jpeg?auto=webp&s=3cff184c258329911dd76bc9483f201e7edd52c8",
+        "score": 1754,
+        "num_comments": 150,
+        "created": "2025-05-07T10:15:35+00:00",
+        "final_text_preview": "Following a study in mice, scientists have now confirmed that silencing the MTCH2 protein in muscle tissue leads to energy-deprived human cells seeking out fat for fuel, while blocking the body's ability to store extra f",
+        "cosine_similarity_to_centroid": 0.7833856344223022
+      },
+      {
+        "fullname": "t3_1oym5mb",
+        "subreddit": "tech",
+        "title": "Natural compound rejuvenates aging cells in just 28 days | Researchers have demonstrated how consuming pomegranate and walnuts, can rejuvenate the immune system while shielding us from cell damage, inflammation and chronic diseases including cancer.",
+        "permalink": "https://old.reddit.com/r/tech/comments/1oym5mb/natural_compound_rejuvenates_aging_cells_in_just/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/NgGrjS-6jkzP52JNWDnArgpMu3_RPLA2ZiglKfM4cwI.jpeg?auto=webp&s=fac1556998fec3dd902264cd4d2c28ffa4b886d3",
+        "score": 1884,
+        "num_comments": 153,
+        "created": "2025-11-16T13:47:33+00:00",
+        "final_text_preview": "Natural compound rejuvenates aging cells in just 28 days | Researchers have demonstrated how consuming pomegranate and walnuts, can rejuvenate the immune system while shielding us from cell damage, inflammation and chron",
+        "cosine_similarity_to_centroid": 0.7791010141372681
+      },
+      {
+        "fullname": "t3_1l9jwmy",
+        "subreddit": "tech",
+        "title": "Pancreatic cancer vaccine eradicates trace of disease in early trials",
+        "permalink": "https://old.reddit.com/r/tech/comments/1l9jwmy/pancreatic_cancer_vaccine_eradicates_trace_of/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/uN6norwkGVFG4YJVxghfGgQQffZjImf09Lb_0v7GfAg.jpg?auto=webp&s=c62bef501fe94d10b1100d0f69564ea864162e43",
+        "score": 5744,
+        "num_comments": 221,
+        "created": "2025-06-12T11:19:52+00:00",
+        "final_text_preview": "Pancreatic cancer vaccine eradicates trace of disease in early trials",
+        "cosine_similarity_to_centroid": 0.776247501373291
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "platform, access, zero",
+    "size": 62,
+    "top_keywords": [
+      "platform",
+      "access",
+      "zero",
+      "linux",
+      "invent",
+      "ai",
+      "single",
+      "control",
+      "privacy",
+      "critical"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nmzipn",
+        "subreddit": "cybersecurity",
+        "title": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1nmzipn/microsofts_entra_id_vulnerabilities_could_have/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/PDbyv4jjec4BRw-1WQwGWlHnF9wR5q0RvGgGPmgJIs0.jpeg?auto=webp&s=d679bdbe7123d39a68295f960bffbcd29081eb83",
+        "score": 358,
+        "num_comments": 21,
+        "created": "2025-09-21T18:25:44+00:00",
+        "final_text_preview": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
+        "cosine_similarity_to_centroid": 0.6885756254196167
+      },
+      {
+        "fullname": "t3_1qrf3n9",
+        "subreddit": "computerscience",
+        "title": "From a computer science perspective, how should autonomous agents be formally modeled and reasoned about?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1qrf3n9/from_a_computer_science_perspective_how_should/",
+        "is_image": false,
+        "image_url": "",
+        "score": 2,
+        "num_comments": 17,
+        "created": "2026-01-30T19:18:54+00:00",
+        "final_text_preview": "As the proliferation of autonomous agents (and the threat-surfaces which they expose) becomes a more urgent conversation across CS domains, what is the right theoretical framework for dealing with them? Systems that main",
+        "cosine_similarity_to_centroid": 0.5939334630966187
+      },
+      {
+        "fullname": "t3_1rkkhge",
+        "subreddit": "cybersecurity",
+        "title": "A single operator with basic skills used an open-source AI platform to breach 600+ FortiGate devices across 55 countries. No zero-days. Just weak passwords and an AI copilot. Full breakdown of CyberStrikeAI, the developer's MSS ties, and all 21 server IOCs.",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rkkhge/a_single_operator_with_basic_skills_used_an/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/YjCmjoFU-i_ILfCzZOP1W_OTZsyKU_MagV4PT8FR64U.png?auto=webp&s=531136688969881de5926a076f14e57454b51177",
+        "score": 112,
+        "num_comments": 4,
+        "created": "2026-03-04T12:45:19+00:00",
+        "final_text_preview": "A single operator with basic skills used an open-source AI platform to breach 600+ FortiGate devices across 55 countries. No zero-days. Just weak passwords and an AI copilot. Full breakdown of CyberStrikeAI, the develope",
+        "cosine_similarity_to_centroid": 0.5721755027770996
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "materials, polymer, conversion",
+    "size": 28,
+    "top_keywords": [
+      "materials",
+      "polymer",
+      "conversion",
+      "new",
+      "principles",
+      "motors",
+      "hugging face",
+      "hugging",
+      "compression",
+      "hybrid"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nhlmzx",
+        "subreddit": "tech",
+        "title": "New system dramatically speeds the search for polymer materials",
+        "permalink": "https://old.reddit.com/r/tech/comments/1nhlmzx/new_system_dramatically_speeds_the_search_for/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Fq_hy5oFEpzEOi0tWCTtJ4Gw9NEl3b2u2ZtJSrxEW74.jpeg?auto=webp&s=1b684b72d32e5957a5c20332dd8aa677bdfe5c61",
+        "score": 77,
+        "num_comments": 3,
+        "created": "2025-09-15T13:19:14+00:00",
+        "final_text_preview": "New system dramatically speeds the search for polymer materials",
+        "cosine_similarity_to_centroid": 0.635804295539856
+      },
+      {
+        "fullname": "t3_1mpz07r",
+        "subreddit": "tech",
+        "title": "Hybrid-electric STOL showcases flexibility in first public demo flights",
+        "permalink": "https://old.reddit.com/r/tech/comments/1mpz07r/hybridelectric_stol_showcases_flexibility_in/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/LVXfN4hU4WD7b3vYzZ4fbpKQABDS3tGwT9HIofZ9r2c.jpeg?auto=webp&s=1c26ed0cd10786793cd50328f5b01d3ff84c6686",
+        "score": 83,
+        "num_comments": 3,
+        "created": "2025-08-14T12:17:21+00:00",
+        "final_text_preview": "Hybrid-electric STOL showcases flexibility in first public demo flights",
+        "cosine_similarity_to_centroid": 0.5535388588905334
+      },
+      {
+        "fullname": "t3_1lvi6hi",
+        "subreddit": "tech",
+        "title": "Battery Materials Produced From Common Rock | Aspiring Materials is turning olivine into several useful materials",
+        "permalink": "https://old.reddit.com/r/tech/comments/1lvi6hi/battery_materials_produced_from_common_rock/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/XMyPX9ufmdZQ3KKOfY-T3ISopPJIqr1XvLCjlvHNK-w.jpeg?auto=webp&s=ca6d761e4c1ca6840059e108bd2c0af592b11bd2",
+        "score": 132,
+        "num_comments": 1,
+        "created": "2025-07-09T13:00:36+00:00",
+        "final_text_preview": "Battery Materials Produced From Common Rock | Aspiring Materials is turning olivine into several useful materials",
+        "cosine_similarity_to_centroid": 0.5425987243652344
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "ai, says, trump",
+    "size": 1406,
+    "top_keywords": [
+      "ai",
+      "says",
+      "trump",
+      "openai",
+      "anthropic",
+      "ceo",
+      "billion",
+      "data",
+      "pentagon",
+      "nvidia"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rgkbq0",
+        "subreddit": "technology",
+        "title": "Trump says he is directing federal agencies to cease use of Anthropic technology",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rgkbq0/trump_says_he_is_directing_federal_agencies_to/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/ZXpwf-zizJuab2EX9IIQTnAJ0S-RnPKuMdF-NmmZyvM.jpeg?auto=webp&s=18c09e46af7505fc51d0ab77408358fbd7baf49a",
+        "score": 86,
+        "num_comments": 8,
+        "created": "2026-02-27T22:00:39+00:00",
+        "final_text_preview": "Trump says he is directing federal agencies to cease use of Anthropic technology",
+        "cosine_similarity_to_centroid": 0.6915720105171204
+      },
+      {
+        "fullname": "t3_1rjeu0w",
+        "subreddit": "technology",
+        "title": "OpenAI’s Altman admits defense deal was ‘opportunistic and sloppy’ amid backlash",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rjeu0w/openais_altman_admits_defense_deal_was/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/oas3eMCqWm2STrQYnFn2arHAeQxsh9WTPiIrJAppHD0.jpeg?auto=webp&s=0e4afc1d98b0263f65ef10afe4a66316df4ba5a7",
+        "score": 4909,
+        "num_comments": 448,
+        "created": "2026-03-03T03:44:15+00:00",
+        "final_text_preview": "OpenAI’s Altman admits defense deal was ‘opportunistic and sloppy’ amid backlash",
+        "cosine_similarity_to_centroid": 0.6864771842956543
+      },
+      {
+        "fullname": "t3_1rgkegx",
+        "subreddit": "artificial",
+        "title": "Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Z9iOG9wqxpcNIO4W32R5mGopd-PHHIOcQQSkM6YZMNA.jpeg?auto=webp&s=ecdcf6d877ffad92b27cb394497a571ee9ce888d",
+        "score": 171,
+        "num_comments": 56,
+        "created": "2026-02-27T22:03:25+00:00",
+        "final_text_preview": "[Source CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html) * President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company A",
+        "cosine_similarity_to_centroid": 0.6834477186203003
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "outrage, hair, star",
+    "size": 26,
+    "top_keywords": [
+      "outrage",
+      "hair",
+      "star",
+      "leading",
+      "program",
+      "ending",
+      "tech",
+      "peoples",
+      "adult",
+      "marathon"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1pn9o26",
+        "subreddit": "cybersecurity",
+        "title": "Google is officially discontinuing dark web report now",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1pn9o26/google_is_officially_discontinuing_dark_web/",
+        "is_image": false,
+        "image_url": "",
+        "score": 357,
+        "num_comments": 72,
+        "created": "2025-12-15T15:07:52+00:00",
+        "final_text_preview": "Google is officially discontinuing dark web report now",
+        "cosine_similarity_to_centroid": 0.6583179235458374
+      },
+      {
+        "fullname": "t3_1lvoq65",
+        "subreddit": "technology",
+        "title": "TikToker Creates Fake 'Alligator Alcatraz' Tour Company That Redirects MAGA Supporters to Migrant Aid Resources | When users try to purchase tour tickets, they're sent to nonprofits that offer legal support for migrants.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1lvoq65/tiktoker_creates_fake_alligator_alcatraz_tour/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/MTF_q54DmI4LuxcWU0tJbHVWL0TFFlcIKsp9ogsOLZk.jpeg?auto=webp&s=e6d27f3931a830ca691300a1963c12db2c5bbd2d",
+        "score": 63821,
+        "num_comments": 948,
+        "created": "2025-07-09T17:25:54+00:00",
+        "final_text_preview": "TikToker Creates Fake 'Alligator Alcatraz' Tour Company That Redirects MAGA Supporters to Migrant Aid Resources | When users try to purchase tour tickets, they're sent to nonprofits that offer legal support for migrants.",
+        "cosine_similarity_to_centroid": 0.6517544984817505
+      },
+      {
+        "fullname": "t3_1q1uwh3",
+        "subreddit": "artificial",
+        "title": "Global outrage as X’s Grok morphs photos of women, children into explicit content",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1q1uwh3/global_outrage_as_xs_grok_morphs_photos_of_women/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/6HhlY7y0y-AGCWx0UPOJSh_MzMQVCLcHsuggvMkqZD8.jpeg?auto=webp&s=72f9af7453e8af70aaca738f80c0dc772011487b",
+        "score": 74,
+        "num_comments": 8,
+        "created": "2026-01-02T10:06:12+00:00",
+        "final_text_preview": "Global outrage as X’s Grok morphs photos of women, children into explicit content",
+        "cosine_similarity_to_centroid": 0.595481812953949
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "world, radio, ai",
+    "size": 41,
+    "top_keywords": [
+      "world",
+      "radio",
+      "ai",
+      "human",
+      "nasa",
+      "cyberattacks",
+      "lasting",
+      "end",
+      "large scale",
+      "gene"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1pvdysj",
+        "subreddit": "tech",
+        "title": "World's smallest autonomous robots could one day save your life",
+        "permalink": "https://old.reddit.com/r/tech/comments/1pvdysj/worlds_smallest_autonomous_robots_could_one_day/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/n42_y6tsP6OkDWzxuECIFoq1pd9vlMRS05VUkNCFdM8.jpeg?auto=webp&s=39f843b1394530d63761f9d7527c5b450c7ac656",
+        "score": 580,
+        "num_comments": 49,
+        "created": "2025-12-25T14:00:32+00:00",
+        "final_text_preview": "World's smallest autonomous robots could one day save your life",
+        "cosine_similarity_to_centroid": 0.6195601224899292
+      },
+      {
+        "fullname": "t3_1p22lah",
+        "subreddit": "tech",
+        "title": "World first: Breath-saving exoskeleton turbocharges diver's kicks",
+        "permalink": "https://old.reddit.com/r/tech/comments/1p22lah/world_first_breathsaving_exoskeleton_turbocharges/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/Ne2cpXJ5mKwWYTrBHMpQZN5_d7moWccYTybPfRhn5FQ.jpeg?auto=webp&s=1103483a1a82d5b1b5822e4745be3678b4605c37",
+        "score": 817,
+        "num_comments": 31,
+        "created": "2025-11-20T13:02:39+00:00",
+        "final_text_preview": "World first: Breath-saving exoskeleton turbocharges diver's kicks",
+        "cosine_similarity_to_centroid": 0.6187002658843994
+      },
+      {
+        "fullname": "t3_1kqjojj",
+        "subreddit": "tech",
+        "title": "World’s first gene-edited spider produces red fluorescent silk",
+        "permalink": "https://old.reddit.com/r/tech/comments/1kqjojj/worlds_first_geneedited_spider_produces_red/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/IAHWTHCx7M1BIZhdyE6UhlAwvP1FVqJtDG8emRVPbOI.jpg?auto=webp&s=3f6fa15b28d76e959ff0f9f1bc1bc84430c688db",
+        "score": 2636,
+        "num_comments": 164,
+        "created": "2025-05-19T18:47:43+00:00",
+        "final_text_preview": "World’s first gene-edited spider produces red fluorescent silk",
+        "cosine_similarity_to_centroid": 0.585747480392456
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "just minute, minute, mosquitoes",
+    "size": 24,
+    "top_keywords": [
+      "just minute",
+      "minute",
+      "mosquitoes",
+      "second",
+      "just",
+      "just dropped",
+      "dropped",
+      "week",
+      "boost",
+      "downloads"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1ls62ar",
+        "subreddit": "tech",
+        "title": "This device uses a laser to shoot down 30 mosquitoes per second — LiDAR-guided 'Photonmatrix'",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ls62ar/this_device_uses_a_laser_to_shoot_down_30/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/1BKzTMlUb957Q5_cTNw7jz_rzaG1phX2-f-1BPTs_VQ.jpeg?auto=webp&s=91ec61e8b6dab78e77026c100fe843c80a45f637",
+        "score": 1507,
+        "num_comments": 201,
+        "created": "2025-07-05T09:36:06+00:00",
+        "final_text_preview": "This device uses a laser to shoot down 30 mosquitoes per second — LiDAR-guided 'Photonmatrix'",
+        "cosine_similarity_to_centroid": 0.6956171989440918
+      },
+      {
+        "fullname": "t3_1jm803d",
+        "subreddit": "artificial",
+        "title": "New Miyazaki meme just dropped",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1jm803d/new_miyazaki_meme_just_dropped/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/uctzmklafire1.jpeg",
+        "score": 935,
+        "num_comments": 106,
+        "created": "2025-03-28T22:50:56+00:00",
+        "final_text_preview": "New Miyazaki meme just dropped",
+        "cosine_similarity_to_centroid": 0.6410479545593262
+      },
+      {
+        "fullname": "t3_1jiql82",
+        "subreddit": "datascience",
+        "title": "\"Hey, you have a second for a quick call? It will just take a minute\"",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1jiql82/hey_you_have_a_second_for_a_quick_call_it_will/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/dz5jp9cm2nqe1.png",
+        "score": 1243,
+        "num_comments": 43,
+        "created": "2025-03-24T13:24:51+00:00",
+        "final_text_preview": "\"Hey, you have a second for a quick call? It will just take a minute\"",
+        "cosine_similarity_to_centroid": 0.640225350856781
+      }
+    ]
+  }
+]

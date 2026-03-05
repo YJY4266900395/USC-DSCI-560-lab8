@@ -15,6 +15,7 @@ import numpy as np
 
 from gensim.models import Word2Vec
 from sklearn.cluster import KMeans
+from sklearn.preprocessing import normalize
 
 from utils import prepare_data, run_config
 
@@ -24,43 +25,44 @@ from utils import prepare_data, run_config
 # w2v_dim = internal Word2Vec word embedding dimension (for word clustering)
 
 W2V_BOW_CONFIGS = [
-    {"name": "w2v_bow_dim30",  "doc_dim": 30,  "w2v_dim": 100, "min_count": 3, "epochs": 30, "window": 5},
-    {"name": "w2v_bow_dim50", "doc_dim": 50, "w2v_dim": 100, "min_count": 3, "epochs": 30, "window": 5},
-    {"name": "w2v_bow_dim100", "doc_dim": 100, "w2v_dim": 100, "min_count": 3, "epochs": 30, "window": 5},
+    {"name": "w2v_bow_dim50",  "doc_dim": 50,  "w2v_dim": 100, "min_count": 3, "epochs": 20, "window": 5},
+    {"name": "w2v_bow_dim100", "doc_dim": 100, "w2v_dim": 100, "min_count": 3, "epochs": 20, "window": 5},
+    {"name": "w2v_bow_dim200", "doc_dim": 200, "w2v_dim": 100, "min_count": 3, "epochs": 20, "window": 5},
 ]
 
 
-def compute_w2v_bow_embeddings(tokenized_docs, config):
-    """
-    1) Train Word2Vec on all words in the corpus
-    2) Cluster word vectors into K bins using KMeans
-    3) For each document, count how many words fall into each bin
-    4) Normalize by total in-vocab word count → document vector
-    """
-    doc_dim = config["doc_dim"]
-
-    # Train Word2Vec on words
+def train_word2vec(tokenized_docs, config):
+    """Train a single Word2Vec model on the entire corpus."""
     w2v = Word2Vec(
         sentences=tokenized_docs,
         vector_size=config["w2v_dim"],
         min_count=config["min_count"],
         epochs=config["epochs"],
         window=config["window"],
-        workers=4,
+        workers=1,
         seed=42,
     )
-    vocab = list(w2v.wv.index_to_key)
-    word_vectors = np.array([w2v.wv[w] for w in vocab], dtype=np.float32)
-    print(f"        Word2Vec vocab size: {len(vocab)}")
+    return w2v
+
+
+def build_bow_vectors(tokenized_docs, w2v_model, num_bins):
+    """
+    1) Cluster word vectors into num_bins bins using KMeans
+    2) For each document, count how many words fall into each bin
+    3) Normalize by total in-vocab word count → document vector
+    """
+    vocab = list(w2v_model.wv.index_to_key)
+    word_vectors = np.array([w2v_model.wv[w] for w in vocab], dtype=np.float32)
 
     # Cluster words into bins
-    km_words = KMeans(n_clusters=doc_dim, random_state=42, n_init="auto", max_iter=300)
-    bin_labels = km_words.fit_predict(word_vectors)
+    word_vecs_norm = normalize(word_vectors, norm="l2")
+    km_words = KMeans(n_clusters=num_bins, random_state=42, n_init=10)
+    bin_labels = km_words.fit_predict(word_vecs_norm)
     word_to_bin = {word: int(lbl) for word, lbl in zip(vocab, bin_labels)}
 
     # Build normalized bag-of-bins document vectors
     n_docs = len(tokenized_docs)
-    doc_vectors = np.zeros((n_docs, doc_dim), dtype=np.float32)
+    doc_vectors = np.zeros((n_docs, num_bins), dtype=np.float32)
 
     for i, tokens in enumerate(tokenized_docs):
         in_vocab = 0
@@ -90,18 +92,25 @@ def main():
 
     records, texts, tokenized_docs = prepare_data(args.input)
 
+    # Train Word2Vec ONCE on all corpus words (params taken from first config)
+    ref = W2V_BOW_CONFIGS[0]
+    print(f"\n[INFO] Training Word2Vec (vector_size={ref['w2v_dim']}, "
+          f"min_count={ref['min_count']}, epochs={ref['epochs']}) ...")
+    w2v_model = train_word2vec(tokenized_docs, ref)
+    print(f"[INFO] Word2Vec vocab size: {len(w2v_model.wv)}")
+
     all_results = []
     for config in W2V_BOW_CONFIGS:
         name = config["name"]
+        num_bins = config["doc_dim"]
+
         print(f"\n{'='*60}")
         print(f"  Config: {name}")
-        print(f"  doc_dim(bins)={config['doc_dim']}, w2v_dim={config['w2v_dim']}, "
-              f"min_count={config['min_count']}, epochs={config['epochs']}, "
-              f"window={config['window']}")
+        print(f"  doc_dim(bins)={num_bins}, w2v_dim={config['w2v_dim']}")
         print(f"{'='*60}")
 
-        print(f"  Training Word2Vec + BoW (doc_dim={config['doc_dim']}) ...")
-        embeddings = compute_w2v_bow_embeddings(tokenized_docs, config)
+        print(f"  Building BoW vectors with {num_bins} bins ...")
+        embeddings = build_bow_vectors(tokenized_docs, w2v_model, num_bins)
         print(f"[INFO] Embeddings shape: {embeddings.shape}")
 
         result = run_config(

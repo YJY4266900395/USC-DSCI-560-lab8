@@ -1,0 +1,440 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "ai, data, new",
+    "size": 4771,
+    "top_keywords": [
+      "ai",
+      "data",
+      "new",
+      "like",
+      "just",
+      "https",
+      "use",
+      "ve",
+      "security",
+      "time"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rl18hr",
+        "subreddit": "technology",
+        "title": "MONEY Duolingo Stock Is Falling Off a Cliff, Continuing a Dramatic Collapse. You Can’t Just Blame That ‘AI First’ Memo",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rl18hr/money_duolingo_stock_is_falling_off_a_cliff/",
+        "is_image": false,
+        "image_url": "",
+        "score": 347,
+        "num_comments": 88,
+        "created": "2026-03-04T23:26:53+00:00",
+        "final_text_preview": "MONEY Duolingo Stock Is Falling Off a Cliff, Continuing a Dramatic Collapse. You Can’t Just Blame That ‘AI First’ Memo",
+        "cosine_similarity_to_centroid": 0.997075080871582
+      },
+      {
+        "fullname": "t3_1q6cr7c",
+        "subreddit": "cybersecurity",
+        "title": "Hotel staff tricked into installing malware by bogus BSODs",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1q6cr7c/hotel_staff_tricked_into_installing_malware_by/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/tLZNg67RGLfD_FAKPIOwiEyJOh3EJU3MV2_nIFRCNIc.jpeg?auto=webp&s=a02585883b87a47e3c11a2c35690e6e0c90f497a",
+        "score": 338,
+        "num_comments": 21,
+        "created": "2026-01-07T11:17:03+00:00",
+        "final_text_preview": "Hotel staff tricked into installing malware by bogus BSODs",
+        "cosine_similarity_to_centroid": 0.9964097142219543
+      },
+      {
+        "fullname": "t3_1oiucp7",
+        "subreddit": "technology",
+        "title": "Lindsey Graham whispers to Siri in Capitol hallway. She loudly replies, ‘Calling Sean Hannity mobile’",
+        "permalink": "https://old.reddit.com/r/technology/comments/1oiucp7/lindsey_graham_whispers_to_siri_in_capitol/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/FXEbmFQ_MR1Y5_AN5jUCiSi6FZhZJ6-ympgbJIJ-vzE.jpeg?auto=webp&s=e6016450f8e3a4e199e0aba7c1c777ad2ab3e8f4",
+        "score": 25341,
+        "num_comments": 512,
+        "created": "2025-10-29T03:37:36+00:00",
+        "final_text_preview": "Lindsey Graham whispers to Siri in Capitol hallway. She loudly replies, ‘Calling Sean Hannity mobile’",
+        "cosine_similarity_to_centroid": 0.9957749247550964
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "science, books, data",
+    "size": 54,
+    "top_keywords": [
+      "science",
+      "books",
+      "data",
+      "data science",
+      "learning",
+      "ai",
+      "degrees",
+      "schools",
+      "says",
+      "resources"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1oak0w9",
+        "subreddit": "computerscience",
+        "title": "Does anybody have a good book on Operating Systems?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1oak0w9/does_anybody_have_a_good_book_on_operating_systems/",
+        "is_image": false,
+        "image_url": "",
+        "score": 8,
+        "num_comments": 20,
+        "created": "2025-10-19T08:03:42+00:00",
+        "final_text_preview": "Does anyone have a book on Operating Systems theory that covers all the topics that are taught in a CS course? I need to read/skim through all of it in 2 days but recommendations for lengthy books are not discouraged",
+        "cosine_similarity_to_centroid": 0.8839364051818848
+      },
+      {
+        "fullname": "t3_1jkir4v",
+        "subreddit": "computerscience",
+        "title": "What are some papers/ thesus/ books every programmer should read",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1jkir4v/what_are_some_papers_thesus_books_every/",
+        "is_image": false,
+        "image_url": "",
+        "score": 107,
+        "num_comments": 46,
+        "created": "2025-03-26T18:23:29+00:00",
+        "final_text_preview": "What are some papers/ thesus/ books every programmer should read",
+        "cosine_similarity_to_centroid": 0.8821310997009277
+      },
+      {
+        "fullname": "t3_1nrla6h",
+        "subreddit": "datascience",
+        "title": "Week Bites: Weekly Dose of Data Science",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1nrla6h/week_bites_weekly_dose_of_data_science/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/P3H41ZUdISJF0n6dukQcHmz--h_6oRaDIfU5lv0m300.jpeg?auto=webp&s=d523e289f04bbd14e79417f4a16e8963fe756cfd",
+        "score": 29,
+        "num_comments": 4,
+        "created": "2025-09-27T03:44:53+00:00",
+        "final_text_preview": "Hi everyone I’m sharing **Week Bites**, a series of **light, digestible videos on data science**. Each week, I cover **key concepts, practical techniques, and industry insights** in short, easy-to-watch videos. 1. [Where",
+        "cosine_similarity_to_centroid": 0.8751742839813232
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "model, ai, ai model",
+    "size": 33,
+    "top_keywords": [
+      "model",
+      "ai",
+      "ai model",
+      "ai models",
+      "new",
+      "models",
+      "world",
+      "deepseek",
+      "launches",
+      "china"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rj5axw",
+        "subreddit": "technology",
+        "title": "Anthropic’s AI model Claude gets popularity boost after US military feud",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rj5axw/anthropics_ai_model_claude_gets_popularity_boost/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/4i-vQkwFwwbdFSVDTJUGqfNxZwsjl7Clyz7LBIE67OE.jpeg?auto=webp&s=cbd0012889d227d47531e896a5f85aa43ef13507",
+        "score": 148,
+        "num_comments": 0,
+        "created": "2026-03-02T21:08:32+00:00",
+        "final_text_preview": "Anthropic’s AI model Claude gets popularity boost after US military feud",
+        "cosine_similarity_to_centroid": 0.9214333295822144
+      },
+      {
+        "fullname": "t3_1j41dln",
+        "subreddit": "artificial",
+        "title": "Nvidia CEO Jensen Huang praises DeepSeek for \"fantastic\" and \"world class\" open-source reasoning model",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1j41dln/nvidia_ceo_jensen_huang_praises_deepseek_for/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/H8ji602OJHNt0nHyHn00kWgUgLT5STAO7TcLugnFQY4.jpg?auto=webp&s=8da93ba26b550e4cce810fa5a0a9ac67f379d62f",
+        "score": 199,
+        "num_comments": 39,
+        "created": "2025-03-05T11:55:25+00:00",
+        "final_text_preview": "Nvidia CEO Jensen Huang praises DeepSeek for \"fantastic\" and \"world class\" open-source reasoning model",
+        "cosine_similarity_to_centroid": 0.9208122491836548
+      },
+      {
+        "fullname": "t3_1m0wtqw",
+        "subreddit": "tech",
+        "title": "Alibaba-backed Moonshot releases new Kimi AI model that beats ChatGPT, Claude in coding — and it costs less",
+        "permalink": "https://old.reddit.com/r/tech/comments/1m0wtqw/alibababacked_moonshot_releases_new_kimi_ai_model/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/0_FBAWufqqOTn0mcZPRsZJsFSHO9y993GsJn8w3P0XM.jpeg?auto=webp&s=aedaa2493ac73d516fcc3f8a74242a90e09c0c83",
+        "score": 93,
+        "num_comments": 6,
+        "created": "2025-07-15T23:11:14+00:00",
+        "final_text_preview": "Alibaba-backed Moonshot releases new Kimi AI model that beats ChatGPT, Claude in coding — and it costs less",
+        "cosine_similarity_to_centroid": 0.9103770852088928
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "ai, says, people",
+    "size": 36,
+    "top_keywords": [
+      "ai",
+      "says",
+      "people",
+      "years",
+      "trump",
+      "ceo",
+      "don",
+      "cybersecurity news",
+      "job",
+      "humans"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nftyt3",
+        "subreddit": "technology",
+        "title": "People are losing jobs due to social media posts about Charlie Kirk",
+        "permalink": "https://old.reddit.com/r/technology/comments/1nftyt3/people_are_losing_jobs_due_to_social_media_posts/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/rwYdayRq1vbfbacR8R3rzN3K4QVKqH3ZOpKrMHy2ig8.jpeg?auto=webp&s=b04e862c8fab0efa76014b568fb018e18efe36d1",
+        "score": 23233,
+        "num_comments": 4144,
+        "created": "2025-09-13T10:19:35+00:00",
+        "final_text_preview": "People are losing jobs due to social media posts about Charlie Kirk",
+        "cosine_similarity_to_centroid": 0.917188286781311
+      },
+      {
+        "fullname": "t3_1k3ep22",
+        "subreddit": "computerscience",
+        "title": "Any computer networking textbooks you'd recommend for teaching to highschool?",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1k3ep22/any_computer_networking_textbooks_youd_recommend/",
+        "is_image": false,
+        "image_url": "",
+        "score": 9,
+        "num_comments": 5,
+        "created": "2025-04-20T04:39:16+00:00",
+        "final_text_preview": "Pretty much what the title says. I need something the kids can read from and not run away as soon as they see the first acronym.",
+        "cosine_similarity_to_centroid": 0.9058214426040649
+      },
+      {
+        "fullname": "t3_1jv4dei",
+        "subreddit": "technology",
+        "title": "Federal Workers Say They’re Being Watched by AI for Saying Anything Bad about Trump",
+        "permalink": "https://old.reddit.com/r/technology/comments/1jv4dei/federal_workers_say_theyre_being_watched_by_ai/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/cropJetNjCX4fvgECFSLZ6bpyQfjZLY4aOcAfb4hKCU.jpg?auto=webp&s=319774684adc396dd11ae95f3a6155ec432d41ce",
+        "score": 20631,
+        "num_comments": 995,
+        "created": "2025-04-09T12:18:41+00:00",
+        "final_text_preview": "Federal Workers Say They’re Being Watched by AI for Saying Anything Bad about Trump",
+        "cosine_similarity_to_centroid": 0.8660951256752014
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "data, trump, says",
+    "size": 38,
+    "top_keywords": [
+      "data",
+      "trump",
+      "says",
+      "ai",
+      "china",
+      "tech",
+      "cells",
+      "online",
+      "bubble",
+      "billion"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1mptdpk",
+        "subreddit": "cybersecurity",
+        "title": "Russian hackers took control of Norwegian dam, police chief says",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1mptdpk/russian_hackers_took_control_of_norwegian_dam/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/COEAiAOXQdQ8UAdHhSu_E-AOtvW1b6LcKMIn1hM_auo.jpeg?auto=webp&s=680053ed5e99f1d12e9e1f0c4d066a10836747aa",
+        "score": 443,
+        "num_comments": 34,
+        "created": "2025-08-14T07:02:18+00:00",
+        "final_text_preview": "Russian hackers took control of Norwegian dam, police chief says",
+        "cosine_similarity_to_centroid": 0.8944752216339111
+      },
+      {
+        "fullname": "t3_1lz5yyl",
+        "subreddit": "technology",
+        "title": "Trump gets 'ratioed' on Truth Social for first time amid Epstein backlash",
+        "permalink": "https://old.reddit.com/r/technology/comments/1lz5yyl/trump_gets_ratioed_on_truth_social_for_first_time/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/_z2Rnw3n8JTS5sNylelRhlCrtiNGkRq1uwidPMYmNqw.jpeg?auto=webp&s=2c0d6564f0dee59965342927f459b32625cb437d",
+        "score": 33029,
+        "num_comments": 774,
+        "created": "2025-07-13T22:35:46+00:00",
+        "final_text_preview": "Trump gets 'ratioed' on Truth Social for first time amid Epstein backlash",
+        "cosine_similarity_to_centroid": 0.8724864721298218
+      },
+      {
+        "fullname": "t3_1mk2sks",
+        "subreddit": "artificial",
+        "title": "President Trump taking fire at the INTEL CEO",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1mk2sks/president_trump_taking_fire_at_the_intel_ceo/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/z8693jp66mhf1.png",
+        "score": 544,
+        "num_comments": 227,
+        "created": "2025-08-07T15:15:03+00:00",
+        "final_text_preview": "President Trump taking fire at the INTEL CEO",
+        "cosine_similarity_to_centroid": 0.8719982504844666
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "zuckerberg, experience help, experienced data",
+    "size": 1,
+    "top_keywords": [
+      "zuckerberg",
+      "experience help",
+      "experienced data",
+      "experienced",
+      "experience working",
+      "experience ve",
+      "experience using",
+      "experience like",
+      "experience let",
+      "experience just"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rftg7a",
+        "subreddit": "technology",
+        "title": "BMW Has M, Mercedes Has AMG, and Now Rivian Has RAD",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rftg7a/bmw_has_m_mercedes_has_amg_and_now_rivian_has_rad/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/qvEsuuJvD6WN8Z72FaAIb0vGGUK2_tF3fnu5KclPREA.jpeg?auto=webp&s=41ee67fb1ffb623cdcb9fbf7d8e821908d02d6be",
+        "score": 0,
+        "num_comments": 2,
+        "created": "2026-02-27T01:49:18+00:00",
+        "final_text_preview": "BMW Has M, Mercedes Has AMG, and Now Rivian Has RAD",
+        "cosine_similarity_to_centroid": 1.0
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "thread, week, table",
+    "size": 12,
+    "top_keywords": [
+      "thread",
+      "week",
+      "table",
+      "getting",
+      "getting worse",
+      "ai glasses",
+      "data",
+      "engine",
+      "value",
+      "key"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1njhwo0",
+        "subreddit": "artificial",
+        "title": "Nvidia’s AI chips are no longer welcome in China",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1njhwo0/nvidias_ai_chips_are_no_longer_welcome_in_china/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/VyK98QmqPJHT9oMofnnMbqVcckxP0bCffZBPIXTI7Wk.jpeg?auto=webp&s=6fe293582d37067cb1eb2c7c445642bb486e0ee9",
+        "score": 325,
+        "num_comments": 100,
+        "created": "2025-09-17T16:28:31+00:00",
+        "final_text_preview": "Nvidia’s AI chips are no longer welcome in China",
+        "cosine_similarity_to_centroid": 0.8766499757766724
+      },
+      {
+        "fullname": "t3_1p24jtg",
+        "subreddit": "computerscience",
+        "title": "Build Your Own Key-Value Storage Engine—Week 2",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1p24jtg/build_your_own_keyvalue_storage_engineweek_2/",
+        "is_image": false,
+        "image_url": "",
+        "score": 4,
+        "num_comments": 0,
+        "created": "2025-11-20T14:27:56+00:00",
+        "final_text_preview": "Build Your Own Key-Value Storage Engine—Week 2",
+        "cosine_similarity_to_centroid": 0.8527511358261108
+      },
+      {
+        "fullname": "t3_1oxgywk",
+        "subreddit": "technology",
+        "title": "Gabe Newell caps off Steam Machine week by taking delivery of a new $500 million superyacht with a submarine garage, on-board hospital and 15 gaming PCs",
+        "permalink": "https://old.reddit.com/r/technology/comments/1oxgywk/gabe_newell_caps_off_steam_machine_week_by_taking/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/EXx8I8auuFsoNawKaVXPRsBG_qbEs61NVd5dNWIYOVg.png?auto=webp&s=f5b6b65a943bb7f89bd903345294cef67e70af89",
+        "score": 19943,
+        "num_comments": 2764,
+        "created": "2025-11-15T03:14:53+00:00",
+        "final_text_preview": "Gabe Newell caps off Steam Machine week by taking delivery of a new $500 million superyacht with a submarine garage, on-board hospital and 15 gaming PCs",
+        "cosine_similarity_to_centroid": 0.8378589153289795
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "paper, programming, answers",
+    "size": 3,
+    "top_keywords": [
+      "paper",
+      "programming",
+      "answers",
+      "disease",
+      "start",
+      "treatment",
+      "new world",
+      "future",
+      "cancer",
+      "advance"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1riy4mp",
+        "subreddit": "computerscience",
+        "title": "This paper, from 1982, answers the question about Future of Programming",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1riy4mp/this_paper_from_1982_answers_the_question_about/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/uulkcpmtunmg1.png",
+        "score": 212,
+        "num_comments": 17,
+        "created": "2026-03-02T16:51:53+00:00",
+        "final_text_preview": "This paper, from 1982, answers the question about Future of Programming",
+        "cosine_similarity_to_centroid": 0.8794019222259521
+      },
+      {
+        "fullname": "t3_1rj9jsg",
+        "subreddit": "cybersecurity",
+        "title": "Tryhackme",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rj9jsg/tryhackme/",
+        "is_image": false,
+        "image_url": "",
+        "score": 4,
+        "num_comments": 37,
+        "created": "2026-03-02T23:53:01+00:00",
+        "final_text_preview": "Hi , what do you think about tryhackme to start in cybersecurity? Im new in this world and I would like to start with this platform, do you recommend it ?",
+        "cosine_similarity_to_centroid": 0.7668176889419556
+      },
+      {
+        "fullname": "t3_1ngrj9k",
+        "subreddit": "tech",
+        "title": "New RNA tool to advance cancer and infectious disease research and treatment",
+        "permalink": "https://old.reddit.com/r/tech/comments/1ngrj9k/new_rna_tool_to_advance_cancer_and_infectious/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/QBbAegdU3AAqhtYB--ezW1qhU9YjPw8qX3lRuxLwT6Q.jpeg?auto=webp&s=5377728555a73cb3e6cb7a6d4a4fe442a88ae3d2",
+        "score": 1184,
+        "num_comments": 34,
+        "created": "2025-09-14T13:37:50+00:00",
+        "final_text_preview": "New RNA tool to advance cancer and infectious disease research and treatment",
+        "cosine_similarity_to_centroid": 0.7574731707572937
+      }
+    ]
+  }
+]

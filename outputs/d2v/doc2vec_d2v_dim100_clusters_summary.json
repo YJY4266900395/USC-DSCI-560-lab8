@@ -1,0 +1,414 @@
+[
+  {
+    "cluster_id": 0,
+    "topic": "books, schools, degrees",
+    "size": 38,
+    "top_keywords": [
+      "books",
+      "schools",
+      "degrees",
+      "ai",
+      "data",
+      "learning",
+      "science",
+      "key",
+      "based",
+      "computer"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1kxjbwh",
+        "subreddit": "technology",
+        "title": "AI Cheating Is So Out of Hand In America’s Schools That the Blue Books Are Coming Back | Pen and paper is back, baby.",
+        "permalink": "https://old.reddit.com/r/technology/comments/1kxjbwh/ai_cheating_is_so_out_of_hand_in_americas_schools/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/dGeoKYtfC5PSmW5H-mqVsHNCOcr9RHG2k_EvhniU7m8.jpg?auto=webp&s=7d1f6a374960194648f3a4ab46626280a89651eb",
+        "score": 56203,
+        "num_comments": 3159,
+        "created": "2025-05-28T15:01:13+00:00",
+        "final_text_preview": "AI Cheating Is So Out of Hand In America’s Schools That the Blue Books Are Coming Back | Pen and paper is back, baby.",
+        "cosine_similarity_to_centroid": 0.8687727451324463
+      },
+      {
+        "fullname": "t3_1mbccgp",
+        "subreddit": "artificial",
+        "title": "Someone should tell the folks applying to schools right now",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1mbccgp/someone_should_tell_the_folks_applying_to_schools/",
+        "is_image": true,
+        "image_url": "https://i.redd.it/h38d6vvjblff1.png",
+        "score": 793,
+        "num_comments": 346,
+        "created": "2025-07-28T10:14:41+00:00",
+        "final_text_preview": "Someone should tell the folks applying to schools right now",
+        "cosine_similarity_to_centroid": 0.8427010774612427
+      },
+      {
+        "fullname": "t3_1jvcz3t",
+        "subreddit": "datascience",
+        "title": "GenAI and LLM preparation for technical rounds",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1jvcz3t/genai_and_llm_preparation_for_technical_rounds/",
+        "is_image": false,
+        "image_url": "",
+        "score": 100,
+        "num_comments": 20,
+        "created": "2025-04-09T18:27:13+00:00",
+        "final_text_preview": "From technical rounds perspective, can anyone suggest resources or topics to study for GenAI and LLMs? I have had some experience with them, but then in interviews they go into the depth (eg. Attention mechanism, Q-learn",
+        "cosine_similarity_to_centroid": 0.8363275527954102
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "topic": "ai, data, new",
+    "size": 4807,
+    "top_keywords": [
+      "ai",
+      "data",
+      "new",
+      "like",
+      "just",
+      "https",
+      "use",
+      "ve",
+      "security",
+      "time"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1q6cr7c",
+        "subreddit": "cybersecurity",
+        "title": "Hotel staff tricked into installing malware by bogus BSODs",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1q6cr7c/hotel_staff_tricked_into_installing_malware_by/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/tLZNg67RGLfD_FAKPIOwiEyJOh3EJU3MV2_nIFRCNIc.jpeg?auto=webp&s=a02585883b87a47e3c11a2c35690e6e0c90f497a",
+        "score": 338,
+        "num_comments": 21,
+        "created": "2026-01-07T11:17:03+00:00",
+        "final_text_preview": "Hotel staff tricked into installing malware by bogus BSODs",
+        "cosine_similarity_to_centroid": 0.9950655698776245
+      },
+      {
+        "fullname": "t3_1rl18hr",
+        "subreddit": "technology",
+        "title": "MONEY Duolingo Stock Is Falling Off a Cliff, Continuing a Dramatic Collapse. You Can’t Just Blame That ‘AI First’ Memo",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rl18hr/money_duolingo_stock_is_falling_off_a_cliff/",
+        "is_image": false,
+        "image_url": "",
+        "score": 347,
+        "num_comments": 88,
+        "created": "2026-03-04T23:26:53+00:00",
+        "final_text_preview": "MONEY Duolingo Stock Is Falling Off a Cliff, Continuing a Dramatic Collapse. You Can’t Just Blame That ‘AI First’ Memo",
+        "cosine_similarity_to_centroid": 0.9950336217880249
+      },
+      {
+        "fullname": "t3_1np8ych",
+        "subreddit": "tech",
+        "title": "Enzyme behind diet-induced obesity and diabetes can be ‘switched off’ | Switching off an enzyme in mice prevented diet-induced obesity and improved metabolism",
+        "permalink": "https://old.reddit.com/r/tech/comments/1np8ych/enzyme_behind_dietinduced_obesity_and_diabetes/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/x1CN0afzMYmnRkbu2BROksyWcLby1oc4UWfzKZMvgl8.jpeg?auto=webp&s=ae64d2d468b3251b9d178c6ecb0208e792816045",
+        "score": 1001,
+        "num_comments": 80,
+        "created": "2025-09-24T10:52:22+00:00",
+        "final_text_preview": "Enzyme behind diet-induced obesity and diabetes can be ‘switched off’ | Switching off an enzyme in mice prevented diet-induced obesity and improved metabolism",
+        "cosine_similarity_to_centroid": 0.9943710565567017
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "topic": "answer, answers, like",
+    "size": 8,
+    "top_keywords": [
+      "answer",
+      "answers",
+      "like",
+      "models starting",
+      "advance",
+      "paper",
+      "asking questions",
+      "programming",
+      "disease",
+      "question"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1qsvas4",
+        "subreddit": "artificial",
+        "title": "Is GPT getting downgraded for free users or just gemini getting better?",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qsvas4/is_gpt_getting_downgraded_for_free_users_or_just/",
+        "is_image": false,
+        "image_url": "",
+        "score": 18,
+        "num_comments": 32,
+        "created": "2026-02-01T10:44:06+00:00",
+        "final_text_preview": "So I was using LLM for studying advance language/framework/design topics. Whenever I have some question I would try on GPT but it will always give me answer in points no matter what prompt I try or create a separate work",
+        "cosine_similarity_to_centroid": 0.9190303087234497
+      },
+      {
+        "fullname": "t3_1npam3d",
+        "subreddit": "computerscience",
+        "title": "Answer Key/Solutions for Discrete mathematics for computer science by Haggard, Gary",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1npam3d/answer_keysolutions_for_discrete_mathematics_for/",
+        "is_image": false,
+        "image_url": "",
+        "score": 0,
+        "num_comments": 2,
+        "created": "2025-09-24T12:19:56+00:00",
+        "final_text_preview": "https://preview.redd.it/q0vhvx8pu3rf1.png?width=897&format=png&auto=webp&s=eba6732c84910220c2976648dc7e56879e8d4b0e Does anyone knows where to get some answer keys/solutions for this book?",
+        "cosine_similarity_to_centroid": 0.8274116516113281
+      },
+      {
+        "fullname": "t3_1q7f4wz",
+        "subreddit": "tech",
+        "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
+        "permalink": "https://old.reddit.com/r/tech/comments/1q7f4wz/ai_models_are_starting_to_learn_by_asking/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/m9i4a2TQyFKEdai7ax9pHssBm26uVPEB3b8LHNhoVdU.jpeg?auto=webp&s=a1ba60729f70ce553e1470670e57a80cdad5c367",
+        "score": 0,
+        "num_comments": 4,
+        "created": "2026-01-08T15:44:27+00:00",
+        "final_text_preview": "AI Models Are Starting to Learn by Asking Themselves Questions",
+        "cosine_similarity_to_centroid": 0.7867081165313721
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "topic": "says, trump, ai",
+    "size": 42,
+    "top_keywords": [
+      "says",
+      "trump",
+      "ai",
+      "people",
+      "job",
+      "worse",
+      "social media",
+      "ceo",
+      "getting",
+      "media"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1nftyt3",
+        "subreddit": "technology",
+        "title": "People are losing jobs due to social media posts about Charlie Kirk",
+        "permalink": "https://old.reddit.com/r/technology/comments/1nftyt3/people_are_losing_jobs_due_to_social_media_posts/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/rwYdayRq1vbfbacR8R3rzN3K4QVKqH3ZOpKrMHy2ig8.jpeg?auto=webp&s=b04e862c8fab0efa76014b568fb018e18efe36d1",
+        "score": 23233,
+        "num_comments": 4144,
+        "created": "2025-09-13T10:19:35+00:00",
+        "final_text_preview": "People are losing jobs due to social media posts about Charlie Kirk",
+        "cosine_similarity_to_centroid": 0.899101734161377
+      },
+      {
+        "fullname": "t3_1rferhn",
+        "subreddit": "cybersecurity",
+        "title": "How to make the jump to CISO?",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rferhn/how_to_make_the_jump_to_ciso/",
+        "is_image": false,
+        "image_url": "",
+        "score": 23,
+        "num_comments": 41,
+        "created": "2026-02-26T16:28:01+00:00",
+        "final_text_preview": "Hey everyone, I had an extensional breakdown in my car after work yesterday. But I would like it to have some sort of good outcome. I am wondering as I crest into my 30's what my path to CISO realistically looks like. I'",
+        "cosine_similarity_to_centroid": 0.8746746778488159
+      },
+      {
+        "fullname": "t3_1o8sk4q",
+        "subreddit": "cybersecurity",
+        "title": "Anyone else seeing a large influx in attacks?",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1o8sk4q/anyone_else_seeing_a_large_influx_in_attacks/",
+        "is_image": false,
+        "image_url": "",
+        "score": 351,
+        "num_comments": 113,
+        "created": "2025-10-17T05:05:51+00:00",
+        "final_text_preview": "Large enterprise, 20,000 employees in various job categories (office, field, remote) we have seen very sophisticated and targeted attacks increase 40% mostly phishing emails but also people receiving phone calls where th",
+        "cosine_similarity_to_centroid": 0.8484017252922058
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "topic": "model, ai model, ai",
+    "size": 13,
+    "top_keywords": [
+      "model",
+      "ai model",
+      "ai",
+      "world",
+      "deepseek",
+      "launches",
+      "new",
+      "new model",
+      "model support",
+      "new ai"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1r8yygn",
+        "subreddit": "tech",
+        "title": "New AI model could cut the costs of developing protein drugs",
+        "permalink": "https://old.reddit.com/r/tech/comments/1r8yygn/new_ai_model_could_cut_the_costs_of_developing/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/rrSpazFyWsVBmZ2wO6XRj4waasGDNV54dkBzm7FBJoQ.jpeg?auto=webp&s=460808669d23520e1d6614548919699fc4d77b9c",
+        "score": 294,
+        "num_comments": 48,
+        "created": "2026-02-19T13:17:26+00:00",
+        "final_text_preview": "New AI model could cut the costs of developing protein drugs",
+        "cosine_similarity_to_centroid": 0.9340096116065979
+      },
+      {
+        "fullname": "t3_1rhgren",
+        "subreddit": "technology",
+        "title": "DeepSeek to release long-awaited AI model in new challenge to US rivals",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rhgren/deepseek_to_release_longawaited_ai_model_in_new/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/XcefdhpQglt_ODrB6KDlbDrZM1Ae7ghETf8AtlehJb8.jpeg?auto=webp&s=c153bc04adbec70d6661276319fc700d5cf0fc03",
+        "score": 1905,
+        "num_comments": 149,
+        "created": "2026-02-28T23:00:31+00:00",
+        "final_text_preview": "DeepSeek to release long-awaited AI model in new challenge to US rivals",
+        "cosine_similarity_to_centroid": 0.9225012063980103
+      },
+      {
+        "fullname": "t3_1qf9thi",
+        "subreddit": "artificial",
+        "title": "\"I kind of think of ads as like a last resort for us as a business model\" - Sam Altman , October 2024",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/",
+        "is_image": true,
+        "image_url": "https://v.redd.it/v5dmpw15zvdg1",
+        "score": 182,
+        "num_comments": 57,
+        "created": "2026-01-17T10:25:08+00:00",
+        "final_text_preview": "\"I kind of think of ads as like a last resort for us as a business model\" - Sam Altman , October 2024",
+        "cosine_similarity_to_centroid": 0.8584645986557007
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "topic": "game, cyber security, play",
+    "size": 1,
+    "top_keywords": [
+      "game",
+      "cyber security",
+      "play",
+      "short",
+      "cyber",
+      "say",
+      "think",
+      "security",
+      "experience far",
+      "experience let"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rje4uh",
+        "subreddit": "cybersecurity",
+        "title": "Play a Short Cyber Security Game! --> Say What You Think! (Game 2)",
+        "permalink": "https://old.reddit.com/r/cybersecurity/comments/1rje4uh/play_a_short_cyber_security_game_say_what_you/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/ejuemxfu9ANHXpPnUcyZjUY_QCKggP-VKSwxAplpF7Q.png?auto=webp&s=759ccff883bd0ad14f112424c982c1497be33f69",
+        "score": 1,
+        "num_comments": 0,
+        "created": "2026-03-03T03:11:45+00:00",
+        "final_text_preview": "Play a Short Cyber Security Game! --> Say What You Think! (Game 2)",
+        "cosine_similarity_to_centroid": 1.0
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "topic": "computer, science, data",
+    "size": 38,
+    "top_keywords": [
+      "computer",
+      "science",
+      "data",
+      "data science",
+      "ai",
+      "computer chips",
+      "thing",
+      "materials",
+      "engineers",
+      "open"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1m957se",
+        "subreddit": "artificial",
+        "title": "Nature just documented a 4th scientific paradigm: AI-driven discovery is fundamentally changing how we generate new knowledge",
+        "permalink": "https://old.reddit.com/r/artificial/comments/1m957se/nature_just_documented_a_4th_scientific_paradigm/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/WYgAMe89EDXcDqzlUukeeJmDzVGLFu7AQS7LfTCgm2c.png?auto=webp&s=47a4c121012f380d8a7ec85053bdc6609aded696",
+        "score": 155,
+        "num_comments": 94,
+        "created": "2025-07-25T17:21:50+00:00",
+        "final_text_preview": "Nature's comprehensive \"AI for Science 2025\" report dropped this week, and it's honestly one of the most significant pieces I've read about AI's actual impact on human knowledge creation. The key insight: we're witnessin",
+        "cosine_similarity_to_centroid": 0.8840293288230896
+      },
+      {
+        "fullname": "t3_1jmqb1l",
+        "subreddit": "computerscience",
+        "title": "Inside arXiv—the Most Transformative Platform in All of Science",
+        "permalink": "https://old.reddit.com/r/computerscience/comments/1jmqb1l/inside_arxivthe_most_transformative_platform_in/",
+        "is_image": false,
+        "image_url": "",
+        "score": 50,
+        "num_comments": 1,
+        "created": "2025-03-29T16:38:12+00:00",
+        "final_text_preview": "Inside arXiv—the Most Transformative Platform in All of Science",
+        "cosine_similarity_to_centroid": 0.8618109226226807
+      },
+      {
+        "fullname": "t3_1k0zcye",
+        "subreddit": "datascience",
+        "title": "Data Engineer trying to understand data science to provide better support.",
+        "permalink": "https://old.reddit.com/r/datascience/comments/1k0zcye/data_engineer_trying_to_understand_data_science/",
+        "is_image": false,
+        "image_url": "",
+        "score": 65,
+        "num_comments": 33,
+        "created": "2025-04-17T00:02:25+00:00",
+        "final_text_preview": "I work as a data engineer who mainly builds & maintains data warehouses but now I’m starting to get projects assigned to me asking me to build custom data pipelines for various data science projects and I’m assuming depl",
+        "cosine_similarity_to_centroid": 0.8536471128463745
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "topic": "zuckerberg, experience help, experienced data",
+    "size": 1,
+    "top_keywords": [
+      "zuckerberg",
+      "experience help",
+      "experienced data",
+      "experienced",
+      "experience working",
+      "experience ve",
+      "experience using",
+      "experience like",
+      "experience let",
+      "experience just"
+    ],
+    "representative_posts": [
+      {
+        "fullname": "t3_1rftg7a",
+        "subreddit": "technology",
+        "title": "BMW Has M, Mercedes Has AMG, and Now Rivian Has RAD",
+        "permalink": "https://old.reddit.com/r/technology/comments/1rftg7a/bmw_has_m_mercedes_has_amg_and_now_rivian_has_rad/",
+        "is_image": true,
+        "image_url": "https://external-preview.redd.it/qvEsuuJvD6WN8Z72FaAIb0vGGUK2_tF3fnu5KclPREA.jpeg?auto=webp&s=41ee67fb1ffb623cdcb9fbf7d8e821908d02d6be",
+        "score": 0,
+        "num_comments": 2,
+        "created": "2026-02-27T01:49:18+00:00",
+        "final_text_preview": "BMW Has M, Mercedes Has AMG, and Now Rivian Has RAD",
+        "cosine_similarity_to_centroid": 1.0
+      }
+    ]
+  }
+]

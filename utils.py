@@ -1,17 +1,16 @@
 """
-Shared utilities reused from Lab5
+Shared utilities
 """
 
 import json
 import os
 import re
 import numpy as np
-import pandas as pd
 from collections import Counter
 from datetime import datetime
 from typing import Dict, List
 
-from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans, AgglomerativeClustering
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import normalize
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -237,7 +236,7 @@ def evaluate_clustering(embeddings: np.ndarray, labels: np.ndarray) -> Dict[str,
     return {
         "silhouette": float(round(silhouette_score(emb_norm, labels, metric="cosine"), 4)),
         "calinski_harabasz": float(round(calinski_harabasz_score(emb_norm, labels), 4)),
-        "davies_bouldin": float(round(davies_bouldin_score(emb_norm, labels), 4)), 
+        "davies_bouldin": float(round(davies_bouldin_score(emb_norm, labels), 4)),
     }
 
 
@@ -260,13 +259,32 @@ def run_config(
     Same output format as Lab 5 embed_and_cluster.py.
     """
     name = config["name"]
+    # Filter out all-zero vectors (cosine distance is undefined for them)
+    row_norms = np.linalg.norm(embeddings, axis=1)
+    nonzero_mask = row_norms > 0
+    if not nonzero_mask.all():
+        n_dropped = int((~nonzero_mask).sum())
+        print(f"[WARN] Dropping {n_dropped} all-zero vectors before clustering")
+        embeddings = embeddings[nonzero_mask]
+        records = [r for r, m in zip(records, nonzero_mask) if m]
+        texts = [t for t, m in zip(texts, nonzero_mask) if m]
 
-    # Cluster with cosine distance (L2-normalize → Euclidean KMeans)
+    # Cluster with cosine distance using Agglomerative Clustering
     emb_norm = normalize(embeddings, norm="l2")
-    kmeans = KMeans(n_clusters=k, random_state=42, n_init="auto")
-    labels = kmeans.fit_predict(emb_norm).astype(int)
-    centroids = kmeans.cluster_centers_
+    agg = AgglomerativeClustering(
+        n_clusters=k,
+        metric="cosine",
+        linkage="average",
+    )
+    labels = agg.fit_predict(emb_norm).astype(int)
     print("[INFO] Cluster sizes:", dict(Counter(labels.tolist())))
+
+    # Compute centroids as mean of normalized embeddings per cluster
+    centroids = np.zeros((k, emb_norm.shape[1]), dtype=np.float32)
+    for c in range(k):
+        mask = labels == c
+        if mask.sum() > 0:
+            centroids[c] = emb_norm[mask].mean(axis=0)
 
     # Evaluate
     metrics = evaluate_clustering(embeddings, labels)
@@ -280,18 +298,7 @@ def run_config(
     reps = representative_posts(embeddings, labels, centroids, records, per_cluster=rep_posts_n)
 
     # Save artifacts
-    prefix = f"{name}"
-
-    # np.save(os.path.join(out_dir, f"{prefix}_centroids.npy"), centroids.astype(np.float32))
-    # np.save(os.path.join(out_dir, f"{prefix}_labels.npy"), labels.astype(np.int32))
-    # np.save(os.path.join(out_dir, f"{prefix}_vectors.npy"), embeddings.astype(np.float32))
-
-    df = pd.DataFrame(records)
-    df["cluster_id"] = labels
-    df["topic"] = [topic_labels[int(c)] for c in labels]
-    # csv_path = os.path.join(out_dir, f"{prefix}_clusters_posts.csv")
-    # df.to_csv(csv_path, index=False, encoding="utf-8")
-    # print(f"[DONE] Wrote {csv_path}")
+    prefix = f"{method}_{name}"
 
     summary = []
     for c in sorted(set(labels.tolist())):
