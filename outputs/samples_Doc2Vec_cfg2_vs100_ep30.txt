@@ -2,51 +2,51 @@ Doc2Vec - cfg2_vs100_ep30
 ============================================================
 
 Cluster 0
-- This fusion energy startup thinks it can cut lasers out of the equation
-- People Could Be ‘Resurrected’ in Robotic Bodies One Day, Futurist Believes. Now He’s Taken the First Step.
-- A New AI Math Startup Just Cracked 4 Previously Unsolved Problems
+- Engineers Just Developed a Perfect Material for a Truly Unsinkable Ship
+- A quick stretch switches this polymer’s capacity to transport heat
+- Harvard engineers 3D-print soft robots that bend, twist, grasp, and move on command
 
 Cluster 1
-- Models that improve on their own are AI's next big thing
-- Why Apple and OpenAI are reportedly betting on AI hardware in 2026
-- 15-minute hep-C test makes same-day treatment possible
-
-Cluster 2
-- Spray-on armor for plants offers a new tool for global food security
-- AI-generated sensors open new paths for early cancer detection
-- First US at-home depression kit on its way after trial shows relief in weeks
-
-Cluster 3
-- Chip stress-tests blood cells to see if donated blood is still good enough
-- What New York Cyber Security Events are worth going to?
-- What security controls actually work for GenAI apps, and what fails in production?
-
-Cluster 4
-- Big blimp uses blades to pull wind power out of the sky
-- Sugar molecules used to destroy antibiotic-resistant bacteria
-- A quick stretch switches this polymer’s capacity to transport heat
-
-Cluster 5
-- Building the world's first open-source quantum computer
-- AI Models Are Starting to Learn by Asking Themselves Questions
-- Magnetic cloaking is moving from theory to real-world engineering
-
-Cluster 6
-- Breakthrough: Scientists Created a 'Universal' Kidney To Match Any Blood Type
-- Toxin Stops Colon Cancer Growth, Without Harming Healthy Tissue
-- Days numbered for 'risky' lithium-ion batteries, scientists say, after fast-charging breakthrough in sodium-ion alternat
-
-Cluster 7
-- Engineers Just Developed a Perfect Material for a Truly Unsinkable Ship
-- Engineers just found a way to cool quantum systems using microwave noise
-- Hybrid jet engines work to excel where pure-electric jets fail
-
-Cluster 8
 - Non-Hallucinogenic LSD Analogue Shows Promise for Psychiatry
 - MSP and cyber security in Houston
 - Theoretical training during sabbatical
 
-Cluster 9
+Cluster 2
+- Big blimp uses blades to pull wind power out of the sky
+- Sugar molecules used to destroy antibiotic-resistant bacteria
+- 3D-printed batteries aim to reshape energy storage in small devices
+
+Cluster 3
+- Chip stress-tests blood cells to see if donated blood is still good enough
+- AI Models Are Starting to Learn by Asking Themselves Questions
+- Futuristic pixel-raising display lets you feel what’s onscreen
+
+Cluster 4
 - how far are we from deepfakes being as common as email phishing?
 - Which role helps you learn nore in cybersecurity: SOC Analyst or Pentester?
-- What difference does the ring ad make?
+- AI vulnerability Agents are currently all noise and no signal. Am I expecting too much, or is the tech just not ready fo
+
+Cluster 5
+- Breakthrough: Scientists Created a 'Universal' Kidney To Match Any Blood Type
+- Engineers just found a way to cool quantum systems using microwave noise
+- Toxin Stops Colon Cancer Growth, Without Harming Healthy Tissue
+
+Cluster 6
+- Models that improve on their own are AI's next big thing
+- Why Apple and OpenAI are reportedly betting on AI hardware in 2026
+- 15-minute hep-C test makes same-day treatment possible
+
+Cluster 7
+- This fusion energy startup thinks it can cut lasers out of the equation
+- Gene editing takes a major step toward ending daily cholesterol pills
+- Battlefield wound spray stops bleeding in just one second
+
+Cluster 8
+- Building the world's first open-source quantum computer
+- Magnetic cloaking is moving from theory to real-world engineering
+- is android code security review lucrative like web ?
+
+Cluster 9
+- Spray-on armor for plants offers a new tool for global food security
+- AI-generated sensors open new paths for early cancer detection
+- First US at-home depression kit on its way after trial shows relief in weeks
