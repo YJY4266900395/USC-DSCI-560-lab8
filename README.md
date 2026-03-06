@@ -60,7 +60,7 @@ Documents that are too short are removed, and extremely long documents are trunc
 
 Tokenized documents are then used as input for the embedding models.
 
-
+---
 
 # Task 1: Doc2Vec Document Embeddings
 
@@ -88,6 +88,8 @@ vector_size = 200
 min_count = 3
 epochs = 20
 dm = 1
+
+---
 
 ## Clustering
 
